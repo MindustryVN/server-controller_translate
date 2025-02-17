@@ -1,0 +1,33 @@
+{
+  "zh_CN_bundle_config_version": "v1.1.0",
+  "translatezh_CN": "",
+
+  "translatezh_CNcommon_close": "[#FF6666]关闭[]",
+  "translatezh_CNcommon_back": "[#FFFF99]返回[]",
+  "translatezh_CNcommon_yes": "[#99FF99]是[]",
+  "translatezh_CNcommon_no": "[#FF6666]否[]",
+  "translatezh_CNcommon_exit": "[#FF6666]退出[]",
+
+  "translatezh_CNchelp_cmd": "[#66CCFF]命令: []",
+  "translatezh_CNchelp_menu_title": "--- [#66CCFF]命令列表 - 帮助菜单[] ---",
+  "translatezh_CNchelp_menu_message": "[#66CCFF]以下是可用命令。点击执行\n[grey]命令和描述可以执行命令",
+  "translatezh_CNchelp_action_title": "--- [#66CCFF]输入命令的输入：@[] ---",
+  "translatezh_CNchelp_action_error": "[#FF6666]执行命令时出错。[]",
+  "translatezh_CNchelp_response_no_cmd": "[#FF6666]未提供命令。[]",
+  "translatezh_CNchelp_response_many_args": "[#FF6666]提供了太多参数。[]",
+  "translatezh_CNchelp_response_few_args": "[#FF6666]提供的参数不足。[]",
+  "translatezh_CNchelp_response_unk_cmd": "[#FF6666]未知命令。输入 /help 以获得帮助[]",
+
+  "translatezh_CNcommand_wait_message": "请等待 [#FFFF99]@s[] 秒以执行下一个命令。",
+  "translatezh_CNcommand_error_param": "[#FF6666]使用参数执行命令时出错。[]",
+  "translatezh_CNcommand_insufficient_permission": "[#FFCC99]权限级别不足。[]",
+  "translatezh_CNcommand_error_executing": "[#FF6666]执行命令时出错。[]",
+  "translatezh_CNcommand_enter_param": "[#FFFF99]输入参数[]",
+  "translatezh_CNcommand_provide_input": "[#FFFF99]为命令提供输入：",
+  "translatezh_CNcommand_available": "[#66FF66]可用命令[]",
+  "translatezh_CNcommand_select": "[#66CCFF]命令功能： []\n@\n[#FFFFFF]选择要运行的 [#FFFF99]命令[]：",
+  "translatezh_CNcommand_error_menu_display": "[#FF6666]显示命令菜单时出错。[]",
+  "translatezh_CNcommand_not_recognized": "[#FFCC99]无法识别命令。[]",
+  "translatezh_CNcommand_info": "[#FFCC99]名称[]: @, [#66CCFF]描述[]:\n@",
+  "translatezh_CNcommand_invalid_param": "[#FF6666]参数无效。 [grey]@[]"
+}

@@ -1,0 +1,33 @@
+{
+  "cs_bundle_config_version": "v1.1.0",
+  "translatecs": "",
+
+  "translatecscommon_close": "[#FF6666]Zavřít[]",
+  "translatecscommon_back": "[#FFFF99]Zpět[]",
+  "translatecscommon_yes": "[#99FF99]Ano[]",
+  "translatecscommon_no": "[#FF6666]Ne[]",
+  "translatecscommon_exit": "[#FF6666]Ukončit[]",
+
+  "translatecschelp_cmd": "[#66CCFF]Příkaz: []",
+  "translatecschelp_menu_title": "--- [#66CCFF]Seznam příkazů - Nápověda[] ---",
+  "translatecschelp_menu_message": "[#66CCFF]Zde jsou dostupné příkazy. Kliknutím spustíte\n[grey]Příkaz a popis mohou provádět příkaz",
+  "translatecschelp_action_title": "--- [#66CCFF]Zadejte vstup pro příkaz: @[] ---",
+  "translatecschelp_action_error": "[#FF6666]Chyba při provádění příkazu.[]",
+  "translatecschelp_response_no_cmd": "[#FF6666]Nebyl zadán žádný příkaz.[]",
+  "translatecschelp_response_many_args": "[#FF6666]Bylo zadáno příliš mnoho argumentů.[]",
+  "translatecschelp_response_few_args": "[#FF6666]Nebylo zadáno dostatek argumentů.[]",
+  "translatecschelp_response_unk_cmd": "[#FF6666]Neznámý příkaz. Napište /help pro nápovědu[]",
+
+  "translatecscommand_wait_message": "Počkejte prosím [#FFFF99]@s[], než provedete další příkaz.",
+  "translatecscommand_error_param": "[#FF6666]Chyba při provádění příkazu s parametry.[]",
+  "translatecscommand_insufficient_permission": "[#FFCC99]Nedostatečná úroveň oprávnění.[]",
+  "translatecscommand_error_executing": "[#FF6666]Chyba při provádění příkazu.[]",
+  "translatecscommand_enter_param": "[#FFFF99]Zadejte parametry[]",
+  "translatecscommand_provide_input": "[#FFFF99]Zadejte vstup pro příkaz:",
+  "translatecscommand_available": "[#66FF66]Dostupné příkazy[]",
+  "translatecscommand_select": "[#66CCFF]Funkce příkazu: []\n@\n[#FFFFFF]Vyberte [#FFFF99]příkaz[] ke spuštění:",
+  "translatecscommand_error_menu_display": "[#FF6666]Chyba při zobrazování nabídky příkazů.[]",
+  "translatecscommand_not_recognized": "[#FFCC99]Příkaz nerozpoznán.[]",
+  "translatecscommand_info": "[#FFCC99]Název[]: @, [#66CCFF]Popis[]:\n@",
+  "translatecscommand_invalid_param": "[#FF6666]Neplatný parametr. [grey]@[]"
+}

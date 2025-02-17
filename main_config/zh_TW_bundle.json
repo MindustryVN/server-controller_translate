@@ -1,0 +1,33 @@
+{
+  "zh_TW_bundle_config_version": "v1.1.0",
+  "translatezh_TW": "",
+
+  "translatezh_TWcommon_close": "[#FF6666]關閉[]",
+  "translatezh_TWcommon_back": "[#FFFF99]返回[]",
+  "translatezh_TWcommon_yes": "[#99FF99]是[]",
+  "translatezh_TWcommon_no": "[#FF6666]否[]",
+  "translatezh_TWcommon_exit": "[#FF6666]退出[]",
+
+  "translatezh_TWchelp_cmd": "[#66CCFF]命令: []",
+  "translatezh_TWchelp_menu_title": "--- [#66CCFF]命令清單 - 說明選單[] ---",
+  "translatezh_TWchelp_menu_message": "[#66CCFF]以下是可用的命令。點擊執行\n[grey]命令和描述可以執行命令",
+  "translatezh_TWchelp_action_title": "--- [#66CCFF]輸入命令的輸入：@[] ---",
+  "translatezh_TWchelp_action_error": "[#FF6666]執行命令時出錯。[]",
+  "translatezh_TWchelp_response_no_cmd": "[#FF6666]未提供命令。[]",
+  "translatezh_TWchelp_response_many_args": "[#FF6666]提供了太多參數。[]",
+  "translatezh_TWchelp_response_few_args": "[#FF6666]提供的參數不足。[]",
+  "translatezh_TWchelp_response_unk_cmd": "[#FF6666]未知命令。輸入 /help 以獲得說明[]",
+
+  "translatezh_TWcommand_wait_message": "請等待 [#FFFF99]@s[] 秒以執行下一個命令。",
+  "translatezh_TWcommand_error_param": "[#FF6666]使用參數執行命令時出錯。[]",
+  "translatezh_TWcommand_insufficient_permission": "[#FFCC99]權限級別不足。[]",
+  "translatezh_TWcommand_error_executing": "[#FF6666]執行命令時出錯。[]",
+  "translatezh_TWcommand_enter_param": "[#FFFF99]輸入參數[]",
+  "translatezh_TWcommand_provide_input": "[#FFFF99]為命令提供輸入：",
+  "translatezh_TWcommand_available": "[#66FF66]可用命令[]",
+  "translatezh_TWcommand_select": "[#66CCFF]命令功能： []\n@\n[#FFFFFF]選擇要執行的 [#FFFF99]命令[]：",
+  "translatezh_TWcommand_error_menu_display": "[#FF6666]顯示命令選單時出錯。[]",
+  "translatezh_TWcommand_not_recognized": "[#FFCC99]無法辨識命令。[]",
+  "translatezh_TWcommand_info": "[#FFCC99]名稱[]: @, [#66CCFF]描述[]:\n@",
+  "translatezh_TWcommand_invalid_param": "[#FF6666]參數無效。 [grey]@[]"
+}

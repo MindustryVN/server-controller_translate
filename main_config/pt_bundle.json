@@ -1,0 +1,33 @@
+{
+  "pt_bundle_config_version": "v1.1.0",
+  "translatept": "",
+
+  "translateptcommon_close": "[#FF6666]Fechar[]",
+  "translateptcommon_back": "[#FFFF99]Voltar[]",
+  "translateptcommon_yes": "[#99FF99]Sim[]",
+  "translateptcommon_no": "[#FF6666]Não[]",
+  "translateptcommon_exit": "[#FF6666]Sair[]",
+
+  "translateptchelp_cmd": "[#66CCFF]Comando: []",
+  "translateptchelp_menu_title": "--- [#66CCFF]Lista de comandos - Menu de ajuda[] ---",
+  "translateptchelp_menu_message": "[#66CCFF]Aqui estão os comandos disponíveis. Clique para executar\n[grey]Comando e descrição podem executar o comando",
+  "translateptchelp_action_title": "--- [#66CCFF]Insira a entrada para o comando: @[] ---",
+  "translateptchelp_action_error": "[#FF6666]Erro ao executar o comando.[]",
+  "translateptchelp_response_no_cmd": "[#FF6666]Nenhum comando fornecido.[]",
+  "translateptchelp_response_many_args": "[#FF6666]Muitos argumentos fornecidos.[]",
+  "translateptchelp_response_few_args": "[#FF6666]Poucos argumentos fornecidos.[]",
+  "translateptchelp_response_unk_cmd": "[#FF6666]Comando desconhecido. Digite /help para ajuda[]",
+
+  "translateptcommand_wait_message": "Aguarde [#FFFF99]@s[] para executar o próximo comando.",
+  "translateptcommand_error_param": "[#FF6666]Erro ao executar o comando com parâmetros.[]",
+  "translateptcommand_insufficient_permission": "[#FFCC99]Nível de permissão insuficiente.[]",
+  "translateptcommand_error_executing": "[#FF6666]Erro ao executar o comando.[]",
+  "translateptcommand_enter_param": "[#FFFF99]Inserir parâmetros[]",
+  "translateptcommand_provide_input": "[#FFFF99]Fornecer entrada para o comando:",
+  "translateptcommand_available": "[#66FF66]Comandos disponíveis[]",
+  "translateptcommand_select": "[#66CCFF]Função de comando: []\n@\n[#FFFFFF]Selecione um [#FFFF99]comando[] para executar:",
+  "translateptcommand_error_menu_display": "[#FF6666]Erro ao exibir o menu de comandos.[]",
+  "translateptcommand_not_recognized": "[#FFCC99]Comando não reconhecido.[]",
+  "translateptcommand_info": "[#FFCC99]Nome[]: @, [#66CCFF]Descrição[]:\n@",
+  "translateptcommand_invalid_param": "[#FF6666]Parâmetro inválido. [grey]@[]"
+}

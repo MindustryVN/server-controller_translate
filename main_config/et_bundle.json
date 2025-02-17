@@ -1,0 +1,33 @@
+{
+  "et_bundle_config_version": "v1.1.0",
+  "translateet": "",
+
+  "translateetcommon_close": "[#FF6666]Sulge[]",
+  "translateetcommon_back": "[#FFFF99]Mine tagasi[]",
+  "translateetcommon_yes": "[#99FF99]Jah[]",
+  "translateetcommon_no": "[#FF6666]Ei[]",
+  "translateetcommon_exit": "[#FF6666]Välju[]",
+
+  "translateetchelp_cmd": "[#66CCFF]Käsk: []",
+  "translateetchelp_menu_title": "--- [#66CCFF]Käskude loend - Abi menüü[] ---",
+  "translateetchelp_menu_message": "[#66CCFF]Siin on saadaolevad käsud. Klõpsake käivitamiseks\n[grey]Käsk ja kirjeldus võivad käsku käivitada",
+  "translateetchelp_action_title": "--- [#66CCFF]Sisestage käsu jaoks sisend: @[] ---",
+  "translateetchelp_action_error": "[#FF6666]Viga käsu täitmisel.[]",
+  "translateetchelp_response_no_cmd": "[#FF6666]Käsku ei ole esitatud.[]",
+  "translateetchelp_response_many_args": "[#FF6666]Liiga palju argumente esitatud.[]",
+  "translateetchelp_response_few_args": "[#FF6666]Ebapiisavalt argumente esitatud.[]",
+  "translateetchelp_response_unk_cmd": "[#FF6666]Tundmatu käsk. Tippige /help abi saamiseks[]",
+
+  "translateetcommand_wait_message": "Palun oodake [#FFFF99]@s[], et järgmine käsk käivitada.",
+  "translateetcommand_error_param": "[#FF6666]Viga käsu täitmisel parameetritega.[]",
+  "translateetcommand_insufficient_permission": "[#FFCC99]Ebapiisav õiguste tase.[]",
+  "translateetcommand_error_executing": "[#FF6666]Viga käsu täitmisel.[]",
+  "translateetcommand_enter_param": "[#FFFF99]Sisestage parameetrid[]",
+  "translateetcommand_provide_input": "[#FFFF99]Esitage käsu jaoks sisend:",
+  "translateetcommand_available": "[#66FF66]Saadaolevad käsud[]",
+  "translateetcommand_select": "[#66CCFF]Käsu funktsioon: []\n@\n[#FFFFFF]Valige käivitamiseks [#FFFF99]käsk[]:",
+  "translateetcommand_error_menu_display": "[#FF6666]Viga käsumenüü kuvamisel.[]",
+  "translateetcommand_not_recognized": "[#FFCC99]Käsku ei tunta ära.[]",
+  "translateetcommand_info": "[#FFCC99]Nimi[]: @, [#66CCFF]Kirjeldus[]:\n@",
+  "translateetcommand_invalid_param": "[#FF6666]Vigane parameeter. [grey]@[]"
+}

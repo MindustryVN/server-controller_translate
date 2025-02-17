@@ -1,0 +1,33 @@
+{
+  "en_bundle_config_version": "v1.1.0",
+  "translateen": "",
+
+  "translateencommon_close": "[#FF6666]Close[]",
+  "translateencommon_back": "[#FFFF99]Go back[]",
+  "translateencommon_yes": "[#99FF99]Yes[]",
+  "translateencommon_no": "[#FF6666]No[]",
+  "translateencommon_exit": "[#FF6666]Exit[]",
+
+  "translateenchelp_cmd": "[#66CCFF]Command: []",
+  "translateenchelp_menu_title": "--- [#66CCFF]Command List - Help Menu[] ---",
+  "translateenchelp_menu_message": "[#66CCFF]Here are the available commands. Click to execute\n[grey]Command and description can executing command",
+  "translateenchelp_action_title": "--- [#66CCFF]Enter Input For Command: @[] ---",
+  "translateenchelp_action_error": "[#FF6666]Error while executing command.[]",
+  "translateenchelp_response_no_cmd": "[#FF6666]No command provided.[]",
+  "translateenchelp_response_many_args": "[#FF6666]Too many arguments provided.[]",
+  "translateenchelp_response_few_args": "[#FF6666]Not enough arguments provided.[]",
+  "translateenchelp_response_unk_cmd": "[#FF6666]Unknown command. Type /help for help[]",
+
+  "translateencommand_wait_message": "Please wait [#FFFF99]@s[] to execute the next command.",
+  "translateencommand_error_param": "[#FF6666]Error while executing command with parameters.[]",
+  "translateencommand_insufficient_permission": "[#FFCC99]Insufficient permission level.[]",
+  "translateencommand_error_executing": "[#FF6666]Error executing command.[]",
+  "translateencommand_enter_param": "[#FFFF99]Enter Parameters[]",
+  "translateencommand_provide_input": "[#FFFF99]Provide input for command:",
+  "translateencommand_available": "[#66FF66]Available Commands[]",
+  "translateencommand_select": "[#66CCFF]Command function: []\n@\n[#FFFFFF]Select a [#FFFF99]command[] to run:",
+  "translateencommand_error_menu_display": "[#FF6666]Error while displaying command menu.[]",
+  "translateencommand_not_recognized": "[#FFCC99]Command not recognized.[]",
+  "translateencommand_info": "[#FFCC99]Name[]: @, [#66CCFF]Description[]:\n@",
+  "translateencommand_invalid_param": "[#FF6666]Invalid parameter. [grey]@[]"
+}

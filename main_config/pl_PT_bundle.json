@@ -1,0 +1,33 @@
+{
+  "pl_PT_bundle_config_version": "v1.1.0",
+  "translatepl_PT": "",
+
+  "translatepl_PTcommon_close": "[#FF6666]Fechar[]",
+  "translatepl_PTcommon_back": "[#FFFF99]Voltar[]",
+  "translatepl_PTcommon_yes": "[#99FF99]Sim[]",
+  "translatepl_PTcommon_no": "[#FF6666]Não[]",
+  "translatepl_PTcommon_exit": "[#FF6666]Sair[]",
+
+  "translatepl_PTchelp_cmd": "[#66CCFF]Comando: []",
+  "translatepl_PTchelp_menu_title": "--- [#66CCFF]Lista de comandos - Menu de ajuda[] ---",
+  "translatepl_PTchelp_menu_message": "[#66CCFF]Aqui estão os comandos disponíveis. Clique para executar\n[grey]Comando e descrição podem executar o comando",
+  "translatepl_PTchelp_action_title": "--- [#66CCFF]Insira a entrada para o comando: @[] ---",
+  "translatepl_PTchelp_action_error": "[#FF6666]Erro ao executar o comando.[]",
+  "translatepl_PTchelp_response_no_cmd": "[#FF6666]Nenhum comando fornecido.[]",
+  "translatepl_PTchelp_response_many_args": "[#FF6666]Muitos argumentos fornecidos.[]",
+  "translatepl_PTchelp_response_few_args": "[#FF6666]Poucos argumentos fornecidos.[]",
+  "translatepl_PTchelp_response_unk_cmd": "[#FF6666]Comando desconhecido. Digite /help para ajuda[]",
+
+  "translatepl_PTcommand_wait_message": "Aguarde [#FFFF99]@s[] para executar o próximo comando.",
+  "translatepl_PTcommand_error_param": "[#FF6666]Erro ao executar o comando com parâmetros.[]",
+  "translatepl_PTcommand_insufficient_permission": "[#FFCC99]Nível de permissão insuficiente.[]",
+  "translatepl_PTcommand_error_executing": "[#FF6666]Erro ao executar o comando.[]",
+  "translatepl_PTcommand_enter_param": "[#FFFF99]Inserir parâmetros[]",
+  "translatepl_PTcommand_provide_input": "[#FFFF99]Fornecer entrada para o comando:",
+  "translatepl_PTcommand_available": "[#66FF66]Comandos disponíveis[]",
+  "translatepl_PTcommand_select": "[#66CCFF]Função de comando: []\n@\n[#FFFFFF]Selecione um [#FFFF99]comando[] para executar:",
+  "translatepl_PTcommand_error_menu_display": "[#FF6666]Erro ao exibir o menu de comandos.[]",
+  "translatepl_PTcommand_not_recognized": "[#FFCC99]Comando não reconhecido.[]",
+  "translatepl_PTcommand_info": "[#FFCC99]Nome[]: @, [#66CCFF]Descrição[]:\n@",
+  "translatepl_PTcommand_invalid_param": "[#FF6666]Parâmetro inválido. [grey]@[]"
+}

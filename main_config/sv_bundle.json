@@ -1,0 +1,33 @@
+{
+  "sv_bundle_config_version": "v1.1.0",
+  "translatesv": "",
+
+  "translatesvcommon_close": "[#FF6666]Stäng[]",
+  "translatesvcommon_back": "[#FFFF99]Gå tillbaka[]",
+  "translatesvcommon_yes": "[#99FF99]Ja[]",
+  "translatesvcommon_no": "[#FF6666]Nej[]",
+  "translatesvcommon_exit": "[#FF6666]Avsluta[]",
+
+  "translatesvchelp_cmd": "[#66CCFF]Kommando: []",
+  "translatesvchelp_menu_title": "--- [#66CCFF]Kommandolista - Hjälpmeny[] ---",
+  "translatesvchelp_menu_message": "[#66CCFF]Här är de tillgängliga kommandona. Klicka för att köra\n[grey]Kommando och beskrivning kan köra kommando",
+  "translatesvchelp_action_title": "--- [#66CCFF]Ange indata för kommando: @[] ---",
+  "translatesvchelp_action_error": "[#FF6666]Fel vid körning av kommando.[]",
+  "translatesvchelp_response_no_cmd": "[#FF6666]Inget kommando angivet.[]",
+  "translatesvchelp_response_many_args": "[#FF6666]För många argument angivna.[]",
+  "translatesvchelp_response_few_args": "[#FF6666]Inte tillräckligt med argument angivna.[]",
+  "translatesvchelp_response_unk_cmd": "[#FF6666]Okänt kommando. Skriv /help för hjälp[]",
+
+  "translatesvcommand_wait_message": "Vänligen vänta [#FFFF99]@s[] för att köra nästa kommando.",
+  "translatesvcommand_error_param": "[#FF6666]Fel vid körning av kommando med parametrar.[]",
+  "translatesvcommand_insufficient_permission": "[#FFCC99]Otillräcklig behörighetsnivå.[]",
+  "translatesvcommand_error_executing": "[#FF6666]Fel vid körning av kommando.[]",
+  "translatesvcommand_enter_param": "[#FFFF99]Ange parametrar[]",
+  "translatesvcommand_provide_input": "[#FFFF99]Ange indata för kommando:",
+  "translatesvcommand_available": "[#66FF66]Tillgängliga kommandon[]",
+  "translatesvcommand_select": "[#66CCFF]Kommandofunktion: []\n@\n[#FFFFFF]Välj ett [#FFFF99]kommando[] att köra:",
+  "translatesvcommand_error_menu_display": "[#FF6666]Fel vid visning av kommandomeny.[]",
+  "translatesvcommand_not_recognized": "[#FFCC99]Kommando känns inte igen.[]",
+  "translatesvcommand_info": "[#FFCC99]Namn[]: @, [#66CCFF]Beskrivning[]:\n@",
+  "translatesvcommand_invalid_param": "[#FF6666]Ogiltig parameter. [grey]@[]"
+}

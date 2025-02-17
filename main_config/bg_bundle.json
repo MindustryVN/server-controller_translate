@@ -1,0 +1,33 @@
+{
+  "bg_bundle_config_version": "v1.1.0",
+  "translatebg": "",
+
+  "translatebgcommon_close": "[#FF6666]Затвори[]",
+  "translatebgcommon_back": "[#FFFF99]Върни се[]",
+  "translatebgcommon_yes": "[#99FF99]Да[]",
+  "translatebgcommon_no": "[#FF6666]Не[]",
+  "translatebgcommon_exit": "[#FF6666]Изход[]",
+
+  "translatebgchelp_cmd": "[#66CCFF]Команда: []",
+  "translatebgchelp_menu_title": "--- [#66CCFF]Списък с команди - Меню Помощ[] ---",
+  "translatebgchelp_menu_message": "[#66CCFF]Ето наличните команди. Щракнете, за да изпълните\n[grey]Команда и описание могат да изпълняват команда",
+  "translatebgchelp_action_title": "--- [#66CCFF]Въведете вход за команда: @[] ---",
+  "translatebgchelp_action_error": "[#FF6666]Грешка при изпълнение на команда.[]",
+  "translatebgchelp_response_no_cmd": "[#FF6666]Не е предоставена команда.[]",
+  "translatebgchelp_response_many_args": "[#FF6666]Прекалено много аргументи са предоставени.[]",
+  "translatebgchelp_response_few_args": "[#FF6666]Не са предоставени достатъчно аргументи.[]",
+  "translatebgchelp_response_unk_cmd": "[#FF6666]Непозната команда. Въведете /help за помощ[]",
+
+  "translatebgcommand_wait_message": "Моля, изчакайте [#FFFF99]@s[], за да изпълните следващата команда.",
+  "translatebgcommand_error_param": "[#FF6666]Грешка при изпълнение на команда с параметри.[]",
+  "translatebgcommand_insufficient_permission": "[#FFCC99]Недостатъчно ниво на разрешение.[]",
+  "translatebgcommand_error_executing": "[#FF6666]Грешка при изпълнение на команда.[]",
+  "translatebgcommand_enter_param": "[#FFFF99]Въведете параметри[]",
+  "translatebgcommand_provide_input": "[#FFFF99]Въведете вход за команда:",
+  "translatebgcommand_available": "[#66FF66]Налични команди[]",
+  "translatebgcommand_select": "[#66CCFF]Функция на команда: []\n@\n[#FFFFFF]Изберете [#FFFF99]команда[] за изпълнение:",
+  "translatebgcommand_error_menu_display": "[#FF6666]Грешка при показване на менюто с команди.[]",
+  "translatebgcommand_not_recognized": "[#FFCC99]Командата не е разпозната.[]",
+  "translatebgcommand_info": "[#FFCC99]Име[]: @, [#66CCFF]Описание[]:\n@",
+  "translatebgcommand_invalid_param": "[#FF6666]Невалиден параметър. [grey]@[]"
+}

@@ -1,0 +1,33 @@
+{
+  "uk_UA_bundle_config_version": "v1.1.0",
+  "translateuk_UA": "",
+
+  "translateuk_UAcommon_close": "[#FF6666]Закрити[]",
+  "translateuk_UAcommon_back": "[#FFFF99]Назад[]",
+  "translateuk_UAcommon_yes": "[#99FF99]Так[]",
+  "translateuk_UAcommon_no": "[#FF6666]Ні[]",
+  "translateuk_UAcommon_exit": "[#FF6666]Вихід[]",
+
+  "translateuk_UAchelp_cmd": "[#66CCFF]Команда: []",
+  "translateuk_UAchelp_menu_title": "--- [#66CCFF]Список команд - Меню допомоги[] ---",
+  "translateuk_UAchelp_menu_message": "[#66CCFF]Ось доступні команди. Натисніть, щоб виконати\n[grey]Команда та опис можуть виконувати команду",
+  "translateuk_UAchelp_action_title": "--- [#66CCFF]Введіть введення для команди: @[] ---",
+  "translateuk_UAchelp_action_error": "[#FF6666]Помилка під час виконання команди.[]",
+  "translateuk_UAchelp_response_no_cmd": "[#FF6666]Немає наданої команди.[]",
+  "translateuk_UAchelp_response_many_args": "[#FF6666]Надано забагато аргументів.[]",
+  "translateuk_UAchelp_response_few_args": "[#FF6666]Недостатньо аргументів надано.[]",
+  "translateuk_UAchelp_response_unk_cmd": "[#FF6666]Невідома команда. Введіть /help для допомоги[]",
+
+  "translateuk_UAcommand_wait_message": "Будь ласка, зачекайте [#FFFF99]@s[], щоб виконати наступну команду.",
+  "translateuk_UAcommand_error_param": "[#FF6666]Помилка під час виконання команди з параметрами.[]",
+  "translateuk_UAcommand_insufficient_permission": "[#FFCC99]Недостатній рівень дозволу.[]",
+  "translateuk_UAcommand_error_executing": "[#FF6666]Помилка під час виконання команди.[]",
+  "translateuk_UAcommand_enter_param": "[#FFFF99]Введіть Параметри[]",
+  "translateuk_UAcommand_provide_input": "[#FFFF99]Введіть введення для команди:",
+  "translateuk_UAcommand_available": "[#66FF66]Доступні команди[]",
+  "translateuk_UAcommand_select": "[#66CCFF]Функція команди: []\n@\n[#FFFFFF]Виберіть [#FFFF99]команду[] для запуску:",
+  "translateuk_UAcommand_error_menu_display": "[#FF6666]Помилка під час відображення меню команд.[]",
+  "translateuk_UAcommand_not_recognized": "[#FFCC99]Команда не розпізнана.[]",
+  "translateuk_UAcommand_info": "[#FFCC99]Назва[]: @, [#66CCFF]Опис[]:\n@",
+  "translateuk_UAcommand_invalid_param": "[#FF6666]Недійсний параметр. [grey]@[]"
+}

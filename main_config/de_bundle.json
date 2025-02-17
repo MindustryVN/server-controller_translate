@@ -1,0 +1,33 @@
+{
+  "de_bundle_config_version": "v1.1.0",
+  "translatede": "",
+
+  "translatedecommon_close": "[#FF6666]Schließen[]",
+  "translatedecommon_back": "[#FFFF99]Zurück[]",
+  "translatedecommon_yes": "[#99FF99]Ja[]",
+  "translatedecommon_no": "[#FF6666]Nein[]",
+  "translatedecommon_exit": "[#FF6666]Beenden[]",
+
+  "translatedechelp_cmd": "[#66CCFF]Befehl: []",
+  "translatedechelp_menu_title": "--- [#66CCFF]Befehlsliste - Hilfemenü[] ---",
+  "translatedechelp_menu_message": "[#66CCFF]Hier sind die verfügbaren Befehle. Zum Ausführen klicken\n[grey]Befehl und Beschreibung können Befehl ausführen",
+  "translatedechelp_action_title": "--- [#66CCFF]Eingabe für Befehl eingeben: @[] ---",
+  "translatedechelp_action_error": "[#FF6666]Fehler beim Ausführen des Befehls.[]",
+  "translatedechelp_response_no_cmd": "[#FF6666]Kein Befehl angegeben.[]",
+  "translatedechelp_response_many_args": "[#FF6666]Zu viele Argumente angegeben.[]",
+  "translatedechelp_response_few_args": "[#FF6666]Nicht genügend Argumente angegeben.[]",
+  "translatedechelp_response_unk_cmd": "[#FF6666]Unbekannter Befehl. Geben Sie /help für Hilfe ein[]",
+
+  "translatedecommand_wait_message": "Bitte warten Sie [#FFFF99]@s[], um den nächsten Befehl auszuführen.",
+  "translatedecommand_error_param": "[#FF6666]Fehler beim Ausführen des Befehls mit Parametern.[]",
+  "translatedecommand_insufficient_permission": "[#FFCC99]Unzureichende Berechtigungsstufe.[]",
+  "translatedecommand_error_executing": "[#FF6666]Fehler beim Ausführen des Befehls.[]",
+  "translatedecommand_enter_param": "[#FFFF99]Parameter eingeben[]",
+  "translatedecommand_provide_input": "[#FFFF99]Eingabe für Befehl angeben:",
+  "translatedecommand_available": "[#66FF66]Verfügbare Befehle[]",
+  "translatedecommand_select": "[#66CCFF]Befehlsfunktion: []\n@\n[#FFFFFF]Wählen Sie einen [#FFFF99]Befehl[] zum Ausführen aus:",
+  "translatedecommand_error_menu_display": "[#FF6666]Fehler beim Anzeigen des Befehlsmenüs.[]",
+  "translatedecommand_not_recognized": "[#FFCC99]Befehl nicht erkannt.[]",
+  "translatedecommand_info": "[#FFCC99]Name[]: @, [#66CCFF]Beschreibung[]:\n@",
+  "translatedecommand_invalid_param": "[#FF6666]Ungültiger Parameter. [grey]@[]"
+}

@@ -1,0 +1,33 @@
+{
+  "fr_bundle_config_version": "v1.1.0",
+  "translatefr": "",
+
+  "translatefrcommon_close": "[#FF6666]Fermer[]",
+  "translatefrcommon_back": "[#FFFF99]Retour[]",
+  "translatefrcommon_yes": "[#99FF99]Oui[]",
+  "translatefrcommon_no": "[#FF6666]Non[]",
+  "translatefrcommon_exit": "[#FF6666]Quitter[]",
+
+  "translatefrchelp_cmd": "[#66CCFF]Commande : []",
+  "translatefrchelp_menu_title": "--- [#66CCFF]Liste des commandes - Menu d'aide[] ---",
+  "translatefrchelp_menu_message": "[#66CCFF]Voici les commandes disponibles. Cliquez pour exécuter\n[grey]Commande et description peuvent exécuter la commande",
+  "translatefrchelp_action_title": "--- [#66CCFF]Entrez l'entrée pour la commande : @[] ---",
+  "translatefrchelp_action_error": "[#FF6666]Erreur lors de l'exécution de la commande.[]",
+  "translatefrchelp_response_no_cmd": "[#FF6666]Aucune commande fournie.[]",
+  "translatefrchelp_response_many_args": "[#FF6666]Trop d'arguments fournis.[]",
+  "translatefrchelp_response_few_args": "[#FF6666]Pas assez d'arguments fournis.[]",
+  "translatefrchelp_response_unk_cmd": "[#FF6666]Commande inconnue. Tapez /help pour obtenir de l'aide[]",
+
+  "translatefrcommand_wait_message": "Veuillez patienter [#FFFF99]@s[] pour exécuter la prochaine commande.",
+  "translatefrcommand_error_param": "[#FF6666]Erreur lors de l'exécution de la commande avec des paramètres.[]",
+  "translatefrcommand_insufficient_permission": "[#FFCC99]Niveau d'autorisation insuffisant.[]",
+  "translatefrcommand_error_executing": "[#FF6666]Erreur lors de l'exécution de la commande.[]",
+  "translatefrcommand_enter_param": "[#FFFF99]Entrez les paramètres[]",
+  "translatefrcommand_provide_input": "[#FFFF99]Fournissez une entrée pour la commande :",
+  "translatefrcommand_available": "[#66FF66]Commandes disponibles[]",
+  "translatefrcommand_select": "[#66CCFF]Fonction de commande : []\n@\n[#FFFFFF]Sélectionnez une [#FFFF99]commande[] à exécuter :",
+  "translatefrcommand_error_menu_display": "[#FF6666]Erreur lors de l'affichage du menu de commandes.[]",
+  "translatefrcommand_not_recognized": "[#FFCC99]Commande non reconnue.[]",
+  "translatefrcommand_info": "[#FFCC99]Nom[] : @, [#66CCFF]Description[] :\n@",
+  "translatefrcommand_invalid_param": "[#FF6666]Paramètre invalide. [grey]@[]"
+}

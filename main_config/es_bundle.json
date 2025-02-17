@@ -1,0 +1,33 @@
+{
+  "es_bundle_config_version": "v1.1.0",
+  "translatees": "",
+
+  "translateescommon_close": "[#FF6666]Cerrar[]",
+  "translateescommon_back": "[#FFFF99]Volver[]",
+  "translateescommon_yes": "[#99FF99]Sí[]",
+  "translateescommon_no": "[#FF6666]No[]",
+  "translateescommon_exit": "[#FF6666]Salir[]",
+
+  "translateeschelp_cmd": "[#66CCFF]Comando: []",
+  "translateeschelp_menu_title": "--- [#66CCFF]Lista de comandos - Menú de ayuda[] ---",
+  "translateeschelp_menu_message": "[#66CCFF]Aquí están los comandos disponibles. Haga clic para ejecutar\n[grey]Comando y descripción pueden ejecutar el comando",
+  "translateeschelp_action_title": "--- [#66CCFF]Introduzca la entrada para el comando: @[] ---",
+  "translateeschelp_action_error": "[#FF6666]Error al ejecutar el comando.[]",
+  "translateeschelp_response_no_cmd": "[#FF6666]No se proporcionó ningún comando.[]",
+  "translateeschelp_response_many_args": "[#FF6666]Se proporcionaron demasiados argumentos.[]",
+  "translateeschelp_response_few_args": "[#FF6666]No se proporcionaron suficientes argumentos.[]",
+  "translateeschelp_response_unk_cmd": "[#FF6666]Comando desconocido. Escriba /help para obtener ayuda[]",
+
+  "translateescommand_wait_message": "Espere [#FFFF99]@s[] para ejecutar el siguiente comando.",
+  "translateescommand_error_param": "[#FF6666]Error al ejecutar el comando con parámetros.[]",
+  "translateescommand_insufficient_permission": "[#FFCC99]Nivel de permiso insuficiente.[]",
+  "translateescommand_error_executing": "[#FF6666]Error al ejecutar el comando.[]",
+  "translateescommand_enter_param": "[#FFFF99]Introduzca parámetros[]",
+  "translateescommand_provide_input": "[#FFFF99]Proporcione entrada para el comando:",
+  "translateescommand_available": "[#66FF66]Comandos disponibles[]",
+  "translateescommand_select": "[#66CCFF]Función de comando: []\n@\n[#FFFFFF]Seleccione un [#FFFF99]comando[] para ejecutar:",
+  "translateescommand_error_menu_display": "[#FF6666]Error al mostrar el menú de comandos.[]",
+  "translateescommand_not_recognized": "[#FFCC99]Comando no reconocido.[]",
+  "translateescommand_info": "[#FFCC99]Nombre[]: @, [#66CCFF]Descripción[]:\n@",
+  "translateescommand_invalid_param": "[#FF6666]Parámetro no válido. [grey]@[]"
+}

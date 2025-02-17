@@ -1,0 +1,33 @@
+{
+  "ru_bundle_config_version": "v1.1.0",
+  "translateru": "",
+
+  "translaterucommon_close": "[#FF6666]Закрыть[]",
+  "translaterucommon_back": "[#FFFF99]Назад[]",
+  "translaterucommon_yes": "[#99FF99]Да[]",
+  "translaterucommon_no": "[#FF6666]Нет[]",
+  "translaterucommon_exit": "[#FF6666]Выход[]",
+
+  "translateruchelp_cmd": "[#66CCFF]Команда: []",
+  "translateruchelp_menu_title": "--- [#66CCFF]Список команд - Меню справки[] ---",
+  "translateruchelp_menu_message": "[#66CCFF]Вот доступные команды. Нажмите, чтобы выполнить\n[grey]Команда и описание могут выполнять команду",
+  "translateruchelp_action_title": "--- [#66CCFF]Введите ввод для команды: @[] ---",
+  "translateruchelp_action_error": "[#FF6666]Ошибка при выполнении команды.[]",
+  "translateruchelp_response_no_cmd": "[#FF6666]Команда не предоставлена.[]",
+  "translateruchelp_response_many_args": "[#FF6666]Предоставлено слишком много аргументов.[]",
+  "translateruchelp_response_few_args": "[#FF6666]Предоставлено недостаточно аргументов.[]",
+  "translateruchelp_response_unk_cmd": "[#FF6666]Неизвестная команда. Введите /help для справки[]",
+
+  "translaterucommand_wait_message": "Пожалуйста, подождите [#FFFF99]@s[], чтобы выполнить следующую команду.",
+  "translaterucommand_error_param": "[#FF6666]Ошибка при выполнении команды с параметрами.[]",
+  "translaterucommand_insufficient_permission": "[#FFCC99]Недостаточный уровень разрешений.[]",
+  "translaterucommand_error_executing": "[#FF6666]Ошибка при выполнении команды.[]",
+  "translaterucommand_enter_param": "[#FFFF99]Введите параметры[]",
+  "translaterucommand_provide_input": "[#FFFF99]Предоставьте ввод для команды:",
+  "translaterucommand_available": "[#66FF66]Доступные команды[]",
+  "translaterucommand_select": "[#66CCFF]Функция команды: []\n@\n[#FFFFFF]Выберите [#FFFF99]команду[] для запуска:",
+  "translaterucommand_error_menu_display": "[#FF6666]Ошибка при отображении меню команд.[]",
+  "translaterucommand_not_recognized": "[#FFCC99]Команда не распознана.[]",
+  "translaterucommand_info": "[#FFCC99]Название[]: @, [#66CCFF]Описание[]:\n@",
+  "translaterucommand_invalid_param": "[#FF6666]Недопустимый параметр. [grey]@[]"
+}

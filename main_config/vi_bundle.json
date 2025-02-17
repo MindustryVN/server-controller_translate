@@ -1,0 +1,33 @@
+{
+  "vi_bundle_config_version": "v1.1.0",
+  "translatevi": "",
+
+  "translatevicommon_close": "[#FF6666]Đóng[]",
+  "translatevicommon_back": "[#FFFF99]Quay lại[]",
+  "translatevicommon_yes": "[#99FF99]Có[]",
+  "translatevicommon_no": "[#FF6666]Không[]",
+  "translatevicommon_exit": "[#FF6666]Thoát[]",
+
+  "translatevichelp_cmd": "[#66CCFF]Lệnh: []",
+  "translatevichelp_menu_title": "--- [#66CCFF]Danh Sách Lệnh - Menu Trợ Giúp[] ---",
+  "translatevichelp_menu_message": "[#66CCFF]Đây là danh sách các lệnh hiện có. Nhấn để thực thi\n[grey]Lệnh và mô tả có thể thực thi lệnh",
+  "translatevichelp_action_title": "--- [#66CCFF]Nhập Input Cho Lệnh: @[] ---",
+  "translatevichelp_action_error": "[#FF6666]Lỗi khi thực thi lệnh.[]",
+  "translatevichelp_response_no_cmd": "[#FF6666]Không có lệnh nào được cung cấp.[]",
+  "translatevichelp_response_many_args": "[#FF6666]Có quá nhiều tham số được cung cấp.[]",
+  "translatevichelp_response_few_args": "[#FF6666]Không có đủ tham số được cung cấp.[]",
+  "translatevichelp_response_unk_cmd": "[#FF6666]Lệnh không xác định. Gõ /help để được giúp đỡ[]",
+
+  "translatevicommand_wait_message": "Vui lòng đợi [#FFFF99]@s[] giây để thực hiện lệnh tiếp theo.",
+  "translatevicommand_error_param": "[#FF6666]Lỗi khi thực thi lệnh với các tham số.[]",
+  "translatevicommand_insufficient_permission": "[#FFCC99]Mức độ quyền hạn không đủ.[]",
+  "translatevicommand_error_executing": "[#FF6666]Lỗi thực thi lệnh.[]",
+  "translatevicommand_enter_param": "[#FFFF99]Nhập Tham Số[]",
+  "translatevicommand_provide_input": "[#FFFF99]Cung cấp input cho lệnh:",
+  "translatevicommand_available": "[#66FF66]Các Lệnh Hiện Có[]",
+  "translatevicommand_select": "[#66CCFF]Chức năng lệnh: []\n@\n[#FFFFFF]Chọn một [#FFFF99]lệnh[] để chạy:",
+  "translatevicommand_error_menu_display": "[#FF6666]Lỗi khi hiển thị menu lệnh.[]",
+  "translatevicommand_not_recognized": "[#FFCC99]Lệnh không được nhận dạng.[]",
+  "translatevicommand_info": "[#FFCC99]Tên[]: @, [#66CCFF]Mô tả[]:\n@",
+  "translatevicommand_invalid_param": "[#FF6666]Tham số không hợp lệ. [grey]@[]"
+}

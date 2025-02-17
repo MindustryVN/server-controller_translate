@@ -1,0 +1,33 @@
+{
+  "pl_bundle_config_version": "v1.1.0",
+  "translatepl": "",
+
+  "translateplcommon_close": "[#FF6666]Zamknij[]",
+  "translateplcommon_back": "[#FFFF99]Wróć[]",
+  "translateplcommon_yes": "[#99FF99]Tak[]",
+  "translateplcommon_no": "[#FF6666]Nie[]",
+  "translateplcommon_exit": "[#FF6666]Wyjdź[]",
+
+  "translateplchelp_cmd": "[#66CCFF]Komenda: []",
+  "translateplchelp_menu_title": "--- [#66CCFF]Lista komend - Menu pomocy[] ---",
+  "translateplchelp_menu_message": "[#66CCFF]Oto dostępne komendy. Kliknij, aby wykonać\n[grey]Komenda i opis mogą wykonywać komendę",
+  "translateplchelp_action_title": "--- [#66CCFF]Wprowadź dane wejściowe dla komendy: @[] ---",
+  "translateplchelp_action_error": "[#FF6666]Błąd podczas wykonywania komendy.[]",
+  "translateplchelp_response_no_cmd": "[#FF6666]Nie podano komendy.[]",
+  "translateplchelp_response_many_args": "[#FF6666]Podano zbyt wiele argumentów.[]",
+  "translateplchelp_response_few_args": "[#FF6666]Nie podano wystarczającej liczby argumentów.[]",
+  "translateplchelp_response_unk_cmd": "[#FF6666]Nieznana komenda. Wpisz /help po pomoc[]",
+
+  "translateplcommand_wait_message": "Proszę czekać [#FFFF99]@s[], aby wykonać następną komendę.",
+  "translateplcommand_error_param": "[#FF6666]Błąd podczas wykonywania komendy z parametrami.[]",
+  "translateplcommand_insufficient_permission": "[#FFCC99]Niewystarczający poziom uprawnień.[]",
+  "translateplcommand_error_executing": "[#FF6666]Błąd podczas wykonywania komendy.[]",
+  "translateplcommand_enter_param": "[#FFFF99]Wprowadź parametry[]",
+  "translateplcommand_provide_input": "[#FFFF99]Podaj dane wejściowe dla komendy:",
+  "translateplcommand_available": "[#66FF66]Dostępne komendy[]",
+  "translateplcommand_select": "[#66CCFF]Funkcja komendy: []\n@\n[#FFFFFF]Wybierz [#FFFF99]komendę[] do uruchomienia:",
+  "translateplcommand_error_menu_display": "[#FF6666]Błąd podczas wyświetlania menu komend.[]",
+  "translateplcommand_not_recognized": "[#FFCC99]Komenda nierozpoznana.[]",
+  "translateplcommand_info": "[#FFCC99]Nazwa[]: @, [#66CCFF]Opis[]:\n@",
+  "translateplcommand_invalid_param": "[#FF6666]Nieprawidłowy parametr. [grey]@[]"
+}
