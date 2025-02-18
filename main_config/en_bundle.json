@@ -29,5 +29,10 @@
   "translateencommand_error_menu_display": "[#FF6666]Error while displaying command menu.[]",
   "translateencommand_not_recognized": "[#FFCC99]Command not recognized.[]",
   "translateencommand_info": "[#FFCC99]Name[]: @, [#66CCFF]Description[]:\n@",
-  "translateencommand_invalid_param": "[#FF6666]Invalid parameter. [grey]@[]"
+  "translateencommand_invalid_param": "[#FF6666]Invalid parameter. [grey]@[]",
+
+  "translateensurvival_game_time_elapsed_message": "Time elapsed: @",
+  "translateensurvival_gameover_menu_title": "[accent]Game Over!",
+  "translateensurvival_gameover_menu_message": "Time survived: [blue]@[].\n[accent]Have [clear]a [green]nice game!"
+
 }
