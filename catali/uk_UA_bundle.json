@@ -44,7 +44,7 @@
   "translateuk_UAcatali_play_note": "\n[#FFFF99]Примітка[]: [#66FF66]Oct[] і [#66FF66]Aegires[] отримують [#66CCFF]40xp[] за секунду.\nВи можете [#66CCFF]змінити поточний режим перегляду мови[] за допомогою команди [#66FF66]\"/language c\"[].",
   "translateuk_UAcatali_team_stat": "-- [#66CCFF]Статистика вашої команди[] --\n[#FF9999]Максимальне здоров'я: []+ %d%%\n[#FF99CC]Шкода: []+ %d%%\n[#99FFFF]Лікування: []+ %d/s",
   "translateuk_UAcatali_team_upgrade": "\nВведіть \"[#66FF66]/upgrade[]\" для використання оновлення\nЗвичайне:  %d, Рідкісне:  %d",
-  "translateuk_UAcatali_unit_destroyed": "[]@ [clear]вбив @ з команди @",
+  "translateuk_UAcatali_unit_destroyed": "[]@ [white]вбив @ з команди @",
   "translateuk_UAcatali_unit_low_health": "Ваш [#66FF66]@[] має [#FF6666]низький[] рівень здоров'я",
   "translateuk_UAcatali_respawn_title": "--- [#66CCFF]Відродження наближається[] ---\n",
   "translateuk_UAcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translateuk_UAcatali_button_join": "[#FFFF99]Приєднатися до когось[]",
   "translateuk_UAcatali_button_help": "[#66CCFF]Відкрити допомогу[]",
 
-  "translateuk_UAcatali_destroy_toast": "[#FF6666]Команда []@ [clear]була ліквідована[]",
+  "translateuk_UAcatali_destroy_toast": "[#FF6666]Команда []@ [white]була ліквідована[]",
   "translateuk_UAcatali_leaderboard_header": "\n--- [#FFD700]Таблиця лідерів[] ---",
   "translateuk_UAcatali_level_up_toast": "[#FFD700]Підвищення рівня![]",
   "translateuk_UAcatali_team_level": "[#66FF66]Рівень []%d\n%s\n%d/%d\n%.2f%%",

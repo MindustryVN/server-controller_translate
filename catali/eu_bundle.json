@@ -44,7 +44,7 @@
   "translateeucatali_play_note": "\n[#FFFF99]Oharra[]: [#66FF66]Oct[] eta [#66FF66]Aegires[] irabazten dute [#66CCFF]40xp[] segundoko.\nZure hizkuntza ikuspegi modua [#66CCFF]aldatu dezakezu[] komandoarekin [#66FF66]\"/language c\"[].",
   "translateeucatali_team_stat": "-- [#66CCFF]Zure taldearen estatistikak[] --\n[#FF9999]Gehienezko HP: []+ %d%%\n[#FF99CC]Kalte: []+ %d%%\n[#99FFFF]Sendatzea: []+ %d/s",
   "translateeucatali_team_upgrade": "\nIdatzi \"[#66FF66]/upgrade[]\" eguneratzeko\nArrunta:  %d, Arraroa:  %d",
-  "translateeucatali_unit_destroyed": "[]@ [clear]hil du @ taldeko @",
+  "translateeucatali_unit_destroyed": "[]@ [white]hil du @ taldeko @",
   "translateeucatali_unit_low_health": "Zure [#66FF66]@[] [#FF6666]osasun baxua[]",
   "translateeucatali_respawn_title": "--- [#66CCFF]Berpiztea Dator[] ---\n",
   "translateeucatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translateeucatali_button_join": "[#FFFF99]Batu norbaiti[]",
   "translateeucatali_button_help": "[#66CCFF]Ireki laguntza[]",
 
-  "translateeucatali_destroy_toast": "[#FF6666]Taldea []@ [clear]desagertu da[]",
+  "translateeucatali_destroy_toast": "[#FF6666]Taldea []@ [white]desagertu da[]",
   "translateeucatali_leaderboard_header": "\n--- [#FFD700]Lidergo taula[] ---",
   "translateeucatali_level_up_toast": "[#FFD700]Maila igo![]",
   "translateeucatali_team_level": "[#66FF66]Maila []%d\n%s\n%d/%d\n%.2f%%",

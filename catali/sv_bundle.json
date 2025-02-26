@@ -44,7 +44,7 @@
   "translatesvcatali_play_note": "\n[#FFFF99]Obs[]: [#66FF66]Oct[] och [#66FF66]Aegires[] får [#66CCFF]40xp[] per sekund.\nDu kan [#66CCFF]ändra nuvarande språkvisningsläge[] genom att [#66FF66]\"/language c\"[] kommando.",
   "translatesvcatali_team_stat": "-- [#66CCFF]Ditt lags statistik[] --\n[#FF9999]Max HP: []+ %d%%\n[#FF99CC]Skada: []+ %d%%\n[#99FFFF]Helande: []+ %d/s",
   "translatesvcatali_team_upgrade": "\nSkriv \"[#66FF66]/upgrade[]\" för att använda uppgradering\nVanlig:  %d, Sällsynt:  %d",
-  "translatesvcatali_unit_destroyed": "[]@ [clear]har dödat en @ från lag @",
+  "translatesvcatali_unit_destroyed": "[]@ [white]har dödat en @ från lag @",
   "translatesvcatali_unit_low_health": "Din [#66FF66]@[] har [#FF6666]låg[] hälsa",
   "translatesvcatali_respawn_title": "--- [#66CCFF]Återuppståndelse inkommande[] ---\n",
   "translatesvcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatesvcatali_button_join": "[#FFFF99]Gå med någon[]",
   "translatesvcatali_button_help": "[#66CCFF]Öppna hjälp[]",
 
-  "translatesvcatali_destroy_toast": "[#FF6666]Lag []@ [clear]har eliminerats[]",
+  "translatesvcatali_destroy_toast": "[#FF6666]Lag []@ [white]har eliminerats[]",
   "translatesvcatali_leaderboard_header": "\n--- [#FFD700]Ledartavla[] ---",
   "translatesvcatali_level_up_toast": "[#FFD700]Nivå upp![]",
   "translatesvcatali_team_level": "[#66FF66]Nivå []%d\n%s\n%d/%d\n%.2f%%",

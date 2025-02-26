@@ -44,7 +44,7 @@
   "translaterocatali_play_note": "\n[#FFFF99]Notă[]: [#66FF66]Oct[] și [#66FF66]Aegires[] câștigă [#66CCFF]40xp[] pe secundă.\nPoți [#66CCFF]schimba modul de vizualizare a limbii curente[] prin comanda [#66FF66]\"/language c\"[].",
   "translaterocatali_team_stat": "-- [#66CCFF]Statistica echipei tale[] --\n[#FF9999]HP Max: []+ %d%%\n[#FF99CC]Daune: []+ %d%%\n[#99FFFF]Vindecare: []+ %d/s",
   "translaterocatali_team_upgrade": "\nTastează \"[#66FF66]/upgrade[]\" pentru a folosi upgrade-ul\nComun:  %d, Rar:  %d",
-  "translaterocatali_unit_destroyed": "[]@ [clear]a ucis un @ din echipa @",
+  "translaterocatali_unit_destroyed": "[]@ [white]a ucis un @ din echipa @",
   "translaterocatali_unit_low_health": "Unitatea ta [#66FF66]@[] are [#FF6666]sănătate scăzută[]",
   "translaterocatali_respawn_title": "--- [#66CCFF]Reapariție Imediată[] ---\n",
   "translaterocatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translaterocatali_button_join": "[#FFFF99]Alătură-te cuiva[]",
   "translaterocatali_button_help": "[#66CCFF]Deschide ajutor[]",
 
-  "translaterocatali_destroy_toast": "[#FF6666]Echipa []@ [clear]a fost eliminată[]",
+  "translaterocatali_destroy_toast": "[#FF6666]Echipa []@ [white]a fost eliminată[]",
   "translaterocatali_leaderboard_header": "\n--- [#FFD700]Clasament[] ---",
   "translaterocatali_level_up_toast": "[#FFD700]Nivel Up![]",
   "translaterocatali_team_level": "[#66FF66]Nivel []%d\n%s\n%d/%d\n%.2f%%",

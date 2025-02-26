@@ -44,7 +44,7 @@
   "translateid_IDcatali_play_note": "\n[#FFFF99]Catatan[]: [#66FF66]Oct[] dan [#66FF66]Aegires[] mendapatkan [#66CCFF]40xp[] per detik.\nAnda dapat [#66CCFF]mengubah mode tampilan bahasa saat ini[] dengan perintah [#66FF66]\"/language c\"[].",
   "translateid_IDcatali_team_stat": "-- [#66CCFF]Statistik tim Anda[] --\n[#FF9999]Max HP: []+ %d%%\n[#FF99CC]Kerusakan: []+ %d%%\n[#99FFFF]Penyembuhan: []+ %d/s",
   "translateid_IDcatali_team_upgrade": "\nKetik \"[#66FF66]/upgrade[]\" untuk menggunakan peningkatan\nUmum:  %d, Langka:  %d",
-  "translateid_IDcatali_unit_destroyed": "[]@ [clear]telah membunuh @ dari tim @",
+  "translateid_IDcatali_unit_destroyed": "[]@ [white]telah membunuh @ dari tim @",
   "translateid_IDcatali_unit_low_health": "Unit [#66FF66]@[] Anda [#FF6666]kesehatan rendah[]",
   "translateid_IDcatali_respawn_title": "--- [#66CCFF]Respawn Akan Datang[] ---\n",
   "translateid_IDcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translateid_IDcatali_button_join": "[#FFFF99]Bergabung dengan seseorang[]",
   "translateid_IDcatali_button_help": "[#66CCFF]Buka bantuan[]",
 
-  "translateid_IDcatali_destroy_toast": "[#FF6666]Tim []@ [clear]telah dieliminasi[]",
+  "translateid_IDcatali_destroy_toast": "[#FF6666]Tim []@ [white]telah dieliminasi[]",
   "translateid_IDcatali_leaderboard_header": "\n--- [#FFD700]Papan Peringkat[] ---",
   "translateid_IDcatali_level_up_toast": "[#FFD700]Naik Level![]",
   "translateid_IDcatali_team_level": "[#66FF66]Level []%d\n%s\n%d/%d\n%.2f%%",

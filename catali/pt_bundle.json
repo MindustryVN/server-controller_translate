@@ -44,7 +44,7 @@
   "translateptcatali_play_note": "\n[#FFFF99]Nota[]: [#66FF66]Oct[] e [#66FF66]Aegires[] ganham [#66CCFF]40xp[] por segundo.\nVocê pode [#66CCFF]alterar o modo de visualização do idioma atual[] com o comando [#66FF66]\"/idioma c\"[].",
   "translateptcatali_team_stat": "-- [#66CCFF]Estatísticas da sua equipe[] --\n[#FF9999]HP Máximo: []+ %d%%\n[#FF99CC]Dano: []+ %d%%\n[#99FFFF]Cura: []+ %d/s",
   "translateptcatali_team_upgrade": "\nDigite \"[#66FF66]/upgrade[]\" para usar o upgrade\nComum:  %d, Raro:  %d",
-  "translateptcatali_unit_destroyed": "[]@ [clear]eliminou um @ da equipe @",
+  "translateptcatali_unit_destroyed": "[]@ [white]eliminou um @ da equipe @",
   "translateptcatali_unit_low_health": "Seu [#66FF66]@[] está com [#FF6666]pouca[] saúde",
   "translateptcatali_respawn_title": "--- [#66CCFF]Renascimento Imediato[] ---\n",
   "translateptcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translateptcatali_button_join": "[#FFFF99]Juntar-se a alguém[]",
   "translateptcatali_button_help": "[#66CCFF]Abrir ajuda[]",
 
-  "translateptcatali_destroy_toast": "[#FF6666]A equipe []@ [clear]foi eliminada[]",
+  "translateptcatali_destroy_toast": "[#FF6666]A equipe []@ [white]foi eliminada[]",
   "translateptcatali_leaderboard_header": "\n--- [#FFD700]Tabela de classificação[] ---",
   "translateptcatali_level_up_toast": "[#FFD700]Nível Up![]",
   "translateptcatali_team_level": "[#66FF66]Nível []%d\n%s\n%d/%d\n%.2f%%",

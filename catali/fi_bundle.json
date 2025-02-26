@@ -44,7 +44,7 @@
   "translateficatali_play_note": "\n[#FFFF99]Huom[]: [#66FF66]Oct[] ja [#66FF66]Aegires[] saavat [#66CCFF]40xp[] sekunnissa.\nVoit [#66CCFF]muuttaa nykyisen kielinäkymän[] tilaa komennolla [#66FF66]\"/language c\"[].",
   "translateficatali_team_stat": "-- [#66CCFF]Joukkueesi tilastot[] --\n[#FF9999]Maksimi HP: []+ %d%%\n[#FF99CC]Vahinko: []+ %d%%\n[#99FFFF]Parantaminen: []+ %d/s",
   "translateficatali_team_upgrade": "\nKirjoita \"[#66FF66]/upgrade[]\" käyttääksesi päivitystä\nYleinen:  %d, Harvinainen:  %d",
-  "translateficatali_unit_destroyed": "[]@ [clear]on tappanut @ joukkueesta @",
+  "translateficatali_unit_destroyed": "[]@ [white]on tappanut @ joukkueesta @",
   "translateficatali_unit_low_health": "Sinun [#66FF66]@[] on [#FF6666]vähän[] terveyttä",
   "translateficatali_respawn_title": "--- [#66CCFF]Uudelleensyntyminen tulossa[] ---\n",
   "translateficatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translateficatali_button_join": "[#FFFF99]Liity jonkun[]",
   "translateficatali_button_help": "[#66CCFF]Avaa ohje[]",
 
-  "translateficatali_destroy_toast": "[#FF6666]Joukkue []@ [clear]on eliminoitu[]",
+  "translateficatali_destroy_toast": "[#FF6666]Joukkue []@ [white]on eliminoitu[]",
   "translateficatali_leaderboard_header": "\n--- [#FFD700]Tulostaulu[] ---",
   "translateficatali_level_up_toast": "[#FFD700]Taso nousi![]",
   "translateficatali_team_level": "[#66FF66]Taso []%d\n%s\n%d/%d\n%.2f%%",

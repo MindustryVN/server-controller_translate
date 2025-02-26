@@ -44,7 +44,7 @@
   "translatekocatali_play_note": "\n[#FFFF99]참고[]: [#66FF66]Oct[]와 [#66FF66]Aegires[]는 [#66CCFF]40xp[]를 초당 획득합니다.\n현재 언어 보기 모드를 변경하려면 [#66FF66]\"/language c\"[] 명령어를 입력하세요.",
   "translatekocatali_team_stat": "-- [#66CCFF]팀 스탯[] --\n[#FF9999]최대 HP: []+ %d%%\n[#FF99CC]데미지: []+ %d%%\n[#99FFFF]회복: []+ %d/s",
   "translatekocatali_team_upgrade": "\n업그레이드하려면 \"[#66FF66]/upgrade[]\"를 입력하세요.\n일반:  %d, 희귀:  %d",
-  "translatekocatali_unit_destroyed": "[]@ [clear]가 @ 팀의 @을(를) 처치했습니다.",
+  "translatekocatali_unit_destroyed": "[]@ [white]가 @ 팀의 @을(를) 처치했습니다.",
   "translatekocatali_unit_low_health": "당신의 [#66FF66]@[]이(가) [#FF6666]체력이 낮습니다[]",
   "translatekocatali_respawn_title": "--- [#66CCFF]리스폰 대기 중[] ---\n",
   "translatekocatali_respawn_message": "@ @: [#66CCFF]@[]\n",

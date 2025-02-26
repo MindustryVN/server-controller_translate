@@ -44,7 +44,7 @@
   "translatethcatali_play_note": "\n[#FFFF99]หมายเหตุ[]: [#66FF66]Oct[] และ [#66FF66]Aegires[] ได้รับ [#66CCFF]40xp[] ต่อวินาที.\nคุณสามารถ [#66CCFF]เปลี่ยนโหมดการดูภาษา[] ปัจจุบันโดย [#66FF66]\"/language c\"[] คำสั่ง.",
   "translatethcatali_team_stat": "-- [#66CCFF]สถิติทีมของคุณ[] --\n[#FF9999]HP สูงสุด: []+ %d%%\n[#FF99CC]ความเสียหาย: []+ %d%%\n[#99FFFF]การรักษา: []+ %d/s",
   "translatethcatali_team_upgrade": "\nพิมพ์ \"[#66FF66]/upgrade[]\" เพื่อใช้อัปเกรด\nทั่วไป:  %d, หายาก:  %d",
-  "translatethcatali_unit_destroyed": "[]@ [clear]ได้สังหาร @ จากทีม @",
+  "translatethcatali_unit_destroyed": "[]@ [white]ได้สังหาร @ จากทีม @",
   "translatethcatali_unit_low_health": "หน่วย [#66FF66]@[] ของคุณมี [#FF6666]สุขภาพต่ำ[]",
   "translatethcatali_respawn_title": "--- [#66CCFF]การเกิดใหม่กำลังมา[] ---\n",
   "translatethcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatethcatali_button_join": "[#FFFF99]เข้าร่วมคนอื่น[]",
   "translatethcatali_button_help": "[#66CCFF]เปิดความช่วยเหลือ[]",
 
-  "translatethcatali_destroy_toast": "[#FF6666]ทีม []@ [clear]ถูกกำจัด[]",
+  "translatethcatali_destroy_toast": "[#FF6666]ทีม []@ [white]ถูกกำจัด[]",
   "translatethcatali_leaderboard_header": "\n--- [#FFD700]กระดานผู้นำ[] ---",
   "translatethcatali_level_up_toast": "[#FFD700]เลเวลอัพ![]",
   "translatethcatali_team_level": "[#66FF66]ระดับ []%d\n%s\n%d/%d\n%.2f%%",

@@ -44,7 +44,7 @@
   "translatevicatali_play_note": "\n[#FFFF99]Lưu ý[]: [#66FF66]Oct[] và [#66FF66]Aegires[] nhận [#66CCFF]40xp[] mỗi giây.\nBạn có thể [#66CCFF]thay đổi chế độ xem ngôn ngữ hiện tại[] bằng [#66FF66]\"/language c\"[] lệnh.",
   "translatevicatali_team_stat": "-- [#66CCFF]Thông Tin Đội[] --\n[#FF9999]HP cơ bản: []+ %d%%\n[#FF99CC]Sát thương: []+ %d%%\n[#99FFFF]Hồi phục: []+ %d/s",
   "translatevicatali_team_upgrade": "\nGõ \"[#66FF66]/upgrade[]\" để sử dụng nâng cấp\nThông thường:  %d, Hiếm:  %d",
-  "translatevicatali_unit_destroyed": "[]@ [clear]đã tiêu diệt một @ từ đội @",
+  "translatevicatali_unit_destroyed": "[]@ [white]đã tiêu diệt một @ từ đội @",
   "translatevicatali_unit_low_health": "Đơn vị [#66FF66]@[] của bạn có [#FF6666]lượng máu thấp",
   "translatevicatali_respawn_title": "--- [#66CCFF]Đang Hồi Sinh[] ---\n",
   "translatevicatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatevicatali_button_join": "[#FFFF99]Tham Gia[]",
   "translatevicatali_button_help": "[#66CCFF]Trợ Giúp[]",
 
-  "translatevicatali_destroy_toast": "[#FF6666]Đội []@ [clear]đã bị hạ gục[]",
+  "translatevicatali_destroy_toast": "[#FF6666]Đội []@ [white]đã bị hạ gục[]",
   "translatevicatali_leaderboard_header": "\n--- [#FFD700]Bảng Xếp Hạng[] ---",
   "translatevicatali_level_up_toast": "[#FFD700]Thăng cấp![]",
   "translatevicatali_team_level": "[#66FF66]Cấp []%d\n%s\n%d/%d\n%.2f%%",

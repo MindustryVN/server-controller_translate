@@ -44,7 +44,7 @@
   "translateetcatali_play_note": "\n[#FFFF99]Märkus[]: [#66FF66]Oct[] ja [#66FF66]Aegires[] saavad [#66CCFF]40xp[] sekundis.\nSaate [#66CCFF]muuta praegust keelevaadet[] režiimi käsuga [#66FF66]\"/language c\"[].",
   "translateetcatali_team_stat": "-- [#66CCFF]Teie meeskonna statistika[] --\n[#FF9999]Maksimaalne HP: []+ %d%%\n[#FF99CC]Kahju: []+ %d%%\n[#99FFFF]Tervendamine: []+ %d/s",
   "translateetcatali_team_upgrade": "\nTüüp \"[#66FF66]/upgrade[]\" uuenduse kasutamiseks\nTavaline:  %d, Haruldane:  %d",
-  "translateetcatali_unit_destroyed": "[]@ [clear]on tapnud @ meeskonnast @",
+  "translateetcatali_unit_destroyed": "[]@ [white]on tapnud @ meeskonnast @",
   "translateetcatali_unit_low_health": "Teie [#66FF66]@[] on [#FF6666]madal[] tervis",
   "translateetcatali_respawn_title": "--- [#66CCFF]Taaselustamine tulekul[] ---\n",
   "translateetcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translateetcatali_button_join": "[#FFFF99]Liitu kellegagi[]",
   "translateetcatali_button_help": "[#66CCFF]Ava abi[]",
 
-  "translateetcatali_destroy_toast": "[#FF6666]Meeskond []@ [clear]on elimineeritud[]",
+  "translateetcatali_destroy_toast": "[#FF6666]Meeskond []@ [white]on elimineeritud[]",
   "translateetcatali_leaderboard_header": "\n--- [#FFD700]Edetabel[] ---",
   "translateetcatali_level_up_toast": "[#FFD700]Tase tõusis![]",
   "translateetcatali_team_level": "[#66FF66]Tase []%d\n%s\n%d/%d\n%.2f%%",

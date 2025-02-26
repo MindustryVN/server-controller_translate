@@ -44,7 +44,7 @@
   "translatebgcatali_play_note": "\n[#FFFF99]Забележка[]: [#66FF66]Oct[] и [#66FF66]Aegires[] получават [#66CCFF]40xp[] на секунда.\nМожете да [#66CCFF]промените текущия езиков режим на изглед[] с команда [#66FF66]\"/language c\"[].",
   "translatebgcatali_team_stat": "-- [#66CCFF]Статистика на вашия отбор[] --\n[#FF9999]Макс HP: []+ %d%%\n[#FF99CC]Щети: []+ %d%%\n[#99FFFF]Лечение: []+ %d/s",
   "translatebgcatali_team_upgrade": "\nВъведете \"[#66FF66]/upgrade[]\" за използване на ъпгрейд\nОбикновен:  %d, Рядък:  %d",
-  "translatebgcatali_unit_destroyed": "[]@ [clear]е убил @ от отбор @",
+  "translatebgcatali_unit_destroyed": "[]@ [white]е убил @ от отбор @",
   "translatebgcatali_unit_low_health": "Вашият [#66FF66]@[] е с [#FF6666]ниско[] здраве",
   "translatebgcatali_respawn_title": "--- [#66CCFF]Предстоящо възраждане[] ---\n",
   "translatebgcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatebgcatali_button_join": "[#FFFF99]Присъединете се към някого[]",
   "translatebgcatali_button_help": "[#66CCFF]Отворете помощ[]",
 
-  "translatebgcatali_destroy_toast": "[#FF6666]Отбор []@ [clear]е елиминиран[]",
+  "translatebgcatali_destroy_toast": "[#FF6666]Отбор []@ [white]е елиминиран[]",
   "translatebgcatali_leaderboard_header": "\n--- [#FFD700]Класация[] ---",
   "translatebgcatali_level_up_toast": "[#FFD700]Ниво нагоре![]",
   "translatebgcatali_team_level": "[#66FF66]Ниво []%d\n%s\n%d/%d\n%.2f%%",

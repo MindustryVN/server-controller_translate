@@ -44,7 +44,7 @@
   "translatenlcatali_play_note": "\n[#FFFF99]Opmerking[]: [#66FF66]Oct[] en [#66FF66]Aegires[] krijgen [#66CCFF]40xp[] per seconde.\nJe kunt [#66CCFF]huidige taalweergavemodus[] wijzigen door [#66FF66]\"/language c\"[] commando.",
   "translatenlcatali_team_stat": "-- [#66CCFF]Je teamstatistieken[] --\n[#FF9999]Max HP: []+ %d%%\n[#FF99CC]Schade: []+ %d%%\n[#99FFFF]Genezing: []+ %d/s",
   "translatenlcatali_team_upgrade": "\nTyp \"[#66FF66]/upgrade[]\" om upgrade te gebruiken\nGewoon:  %d, Zeldzaam:  %d",
-  "translatenlcatali_unit_destroyed": "[]@ [clear]heeft een @ van team @ gedood",
+  "translatenlcatali_unit_destroyed": "[]@ [white]heeft een @ van team @ gedood",
   "translatenlcatali_unit_low_health": "Je [#66FF66]@[] heeft [#FF6666]weinig[] gezondheid",
   "translatenlcatali_respawn_title": "--- [#66CCFF]Respawn Komt[] ---\n",
   "translatenlcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatenlcatali_button_join": "[#FFFF99]Sluit je aan bij iemand[]",
   "translatenlcatali_button_help": "[#66CCFF]Open hulp[]",
 
-  "translatenlcatali_destroy_toast": "[#FF6666]Team []@ [clear]is geëlimineerd[]",
+  "translatenlcatali_destroy_toast": "[#FF6666]Team []@ [white]is geëlimineerd[]",
   "translatenlcatali_leaderboard_header": "\n--- [#FFD700]Ranglijst[] ---",
   "translatenlcatali_level_up_toast": "[#FFD700]Niveau omhoog![]",
   "translatenlcatali_team_level": "[#66FF66]Niveau []%d\n%s\n%d/%d\n%.2f%%",

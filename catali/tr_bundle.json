@@ -44,7 +44,7 @@
   "translatetrcatali_play_note": "\n[#FFFF99]Not[]: [#66FF66]Oct[] ve [#66FF66]Aegires[] saniyede [#66CCFF]40xp[] kazanır.\nGörüntüleme dil modunu [#66FF66]\"/language c\"[] komutuyla değiştirebilirsiniz.",
   "translatetrcatali_team_stat": "-- [#66CCFF]Takımınızın istatistikleri[] --\n[#FF9999]Maks HP: []+ %d%%\n[#FF99CC]Hasar: []+ %d%%\n[#99FFFF]İyileşme: []+ %d/s",
   "translatetrcatali_team_upgrade": "\n\"[#66FF66]/upgrade[]\" yazın\nOrtak:  %d, Nadir:  %d",
-  "translatetrcatali_unit_destroyed": "[]@ [clear] tarafından @ takımından bir @ öldürüldü",
+  "translatetrcatali_unit_destroyed": "[]@ [white] tarafından @ takımından bir @ öldürüldü",
   "translatetrcatali_unit_low_health": "[#66FF66]@[] biriminiz [#FF6666]düşük[] sağlıkta",
   "translatetrcatali_respawn_title": "--- [#66CCFF]Yeniden Doğma Geliyor[] ---\n",
   "translatetrcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatetrcatali_button_join": "[#FFFF99]Birine katıl[]",
   "translatetrcatali_button_help": "[#66CCFF]Yardımı aç[]",
 
-  "translatetrcatali_destroy_toast": "[#FF6666]Takım []@ [clear]elendi[]",
+  "translatetrcatali_destroy_toast": "[#FF6666]Takım []@ [white]elendi[]",
   "translatetrcatali_leaderboard_header": "\n--- [#FFD700]Lider Tablosu[] ---",
   "translatetrcatali_level_up_toast": "[#FFD700]Seviye Atladınız![]",
   "translatetrcatali_team_level": "[#66FF66]Seviye []%d\n%s\n%d/%d\n%.2f%%",

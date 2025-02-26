@@ -44,7 +44,7 @@
   "translatenl_BEcatali_play_note": "\n[#FFFF99]Opmerking[]: [#66FF66]Oct[] en [#66FF66]Aegires[] krijgen [#66CCFF]40xp[] per seconde.\nJe kunt [#66CCFF]de huidige taalweergavemodus[] wijzigen door [#66FF66]\"/language c\"[] commando.",
   "translatenl_BEcatali_team_stat": "-- [#66CCFF]Je teamstatistieken[] --\n[#FF9999]Max HP: []+ %d%%\n[#FF99CC]Schade: []+ %d%%\n[#99FFFF]Genezing: []+ %d/s",
   "translatenl_BEcatali_team_upgrade": "\nType \"[#66FF66]/upgrade[]\" om upgrade te gebruiken\nGewoon:  %d, Zeldzaam:  %d",
-  "translatenl_BEcatali_unit_destroyed": "[]@ [clear]heeft een @ van team @ gedood",
+  "translatenl_BEcatali_unit_destroyed": "[]@ [white]heeft een @ van team @ gedood",
   "translatenl_BEcatali_unit_low_health": "Je [#66FF66]@[] heeft [#FF6666]weinig[] gezondheid",
   "translatenl_BEcatali_respawn_title": "--- [#66CCFF]Herstart inkomend[] ---\n",
   "translatenl_BEcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatenl_BEcatali_button_join": "[#FFFF99]Sluit je aan bij iemand[]",
   "translatenl_BEcatali_button_help": "[#66CCFF]Open hulp[]",
 
-  "translatenl_BEcatali_destroy_toast": "[#FF6666]Team []@ [clear]is geëlimineerd[]",
+  "translatenl_BEcatali_destroy_toast": "[#FF6666]Team []@ [white]is geëlimineerd[]",
   "translatenl_BEcatali_leaderboard_header": "\n--- [#FFD700]Ranglijst[] ---",
   "translatenl_BEcatali_level_up_toast": "[#FFD700]Niveau omhoog![]",
   "translatenl_BEcatali_team_level": "[#66FF66]Niveau []%d\n%s\n%d/%d\n%.2f%%",

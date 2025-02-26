@@ -44,7 +44,7 @@
   "translatetkcatali_play_note": "\n[#FFFF99]Bellik[]: [#66FF66]Oct[] we [#66FF66]Aegires[] [#66CCFF]sekuntda 40xp[] alýar.\nHäzirki dil görnüşini üýtgedip bilersiňiz [#66FF66]\"/language c\"[] buýruk bilen.",
   "translatetkcatali_team_stat": "-- [#66CCFF]Toparyňyzyň statistikalary[] --\n[#FF9999]Maks HP: []+ %d%%\n[#FF99CC]Zeper: []+ %d%%\n[#99FFFF]Bejermek: []+ %d/s",
   "translatetkcatali_team_upgrade": "\nTäzelenme ulanmak üçin \"[#66FF66]/upgrade[]\" ýaz\nAdaty:  %d, Seýrek:  %d",
-  "translatetkcatali_unit_destroyed": "[]@ [clear] tarapyndan öldürildi @ topardan @",
+  "translatetkcatali_unit_destroyed": "[]@ [white] tarapyndan öldürildi @ topardan @",
   "translatetkcatali_unit_low_health": "Siziň [#66FF66]@[] [#FF6666]pes[] saglykda",
   "translatetkcatali_respawn_title": "--- [#66CCFF]Täzeden döreme[] ---\n",
   "translatetkcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatetkcatali_button_join": "[#FFFF99]Birine goşulmak[]",
   "translatetkcatali_button_help": "[#66CCFF]Kömek aç[]",
 
-  "translatetkcatali_destroy_toast": "[#FF6666]Topar []@ [clear]ýok edildi[]",
+  "translatetkcatali_destroy_toast": "[#FF6666]Topar []@ [white]ýok edildi[]",
   "translatetkcatali_leaderboard_header": "\n--- [#FFD700]Ýolbaşçylar[] ---",
   "translatetkcatali_level_up_toast": "[#FFD700]Dereje ýokarlandy![]",
   "translatetkcatali_team_level": "[#66FF66]Dereje []%d\n%s\n%d/%d\n%.2f%%",

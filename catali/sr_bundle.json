@@ -44,7 +44,7 @@
   "translatesrcatali_play_note": "\n[#FFFF99]Napomena[]: [#66FF66]Oct[] i [#66FF66]Aegires[] dobijaju [#66CCFF]40xp[] po sekundi.\nMožete [#66CCFF]promeniti trenutni jezik prikaza[] režimom pomoću [#66FF66]\"/language c\"[] komande.",
   "translatesrcatali_team_stat": "-- [#66CCFF]Statistika vašeg tima[] --\n[#FF9999]Maksimalni HP: []+ %d%%\n[#FF99CC]Šteta: []+ %d%%\n[#99FFFF]Lečenje: []+ %d/s",
   "translatesrcatali_team_upgrade": "\nUpišite \"[#66FF66]/upgrade[]\" za korišćenje nadogradnje\nObično:  %d, Retko:  %d",
-  "translatesrcatali_unit_destroyed": "[]@ [clear]je ubio @ iz tima @",
+  "translatesrcatali_unit_destroyed": "[]@ [white]je ubio @ iz tima @",
   "translatesrcatali_unit_low_health": "Vaša [#66FF66]@[] je [#FF6666]niskog[] zdravlja",
   "translatesrcatali_respawn_title": "--- [#66CCFF]Ponovno pojavljivanje[] ---\n",
   "translatesrcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatesrcatali_button_join": "[#FFFF99]Pridruži se nekome[]",
   "translatesrcatali_button_help": "[#66CCFF]Otvori pomoć[]",
 
-  "translatesrcatali_destroy_toast": "[#FF6666]Tim []@ [clear]je eliminisan[]",
+  "translatesrcatali_destroy_toast": "[#FF6666]Tim []@ [white]je eliminisan[]",
   "translatesrcatali_leaderboard_header": "\n--- [#FFD700]Tabela[] ---",
   "translatesrcatali_level_up_toast": "[#FFD700]Nivo gore![]",
   "translatesrcatali_team_level": "[#66FF66]Nivo []%d\n%s\n%d/%d\n%.2f%%",

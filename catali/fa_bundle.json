@@ -44,7 +44,7 @@
   "translatefacatali_play_note": "\n[#FFFF99]توجه[]: [#66FF66]اکت[] و [#66FF66]آیگریس[] [#66CCFF]40xp[] در هر ثانیه کسب می‌کنند.\nمی‌توانید [#66CCFF]حالت نمایش زبان فعلی[] را با [#66FF66]\"/language c\"[] تغییر دهید.",
   "translatefacatali_team_stat": "-- [#66CCFF]آمار تیم شما[] --\n[#FF9999]حداکثر HP: []+ %d%%\n[#FF99CC]آسیب: []+ %d%%\n[#99FFFF]درمان: []+ %d/s",
   "translatefacatali_team_upgrade": "\nبرای استفاده از ارتقاء \"[#66FF66]/upgrade[]\" تایپ کنید\nمعمولی:  %d, نادر:  %d",
-  "translatefacatali_unit_destroyed": "[]@ [clear]یک @ از تیم @ را کشته است",
+  "translatefacatali_unit_destroyed": "[]@ [white]یک @ از تیم @ را کشته است",
   "translatefacatali_unit_low_health": "واحد [#66FF66]@[] شما [#FF6666]سلامتی کمی[] دارد",
   "translatefacatali_respawn_title": "--- [#66CCFF]بازگشت در حال انجام[] ---\n",
   "translatefacatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatefacatali_button_join": "[#FFFF99]پیوستن به کسی[]",
   "translatefacatali_button_help": "[#66CCFF]باز کردن کمک[]",
 
-  "translatefacatali_destroy_toast": "[#FF6666]تیم []@ [clear]حذف شده است[]",
+  "translatefacatali_destroy_toast": "[#FF6666]تیم []@ [white]حذف شده است[]",
   "translatefacatali_leaderboard_header": "\n--- [#FFD700]جدول برترین‌ها[] ---",
   "translatefacatali_level_up_toast": "[#FFD700]ارتقاء سطح![]",
   "translatefacatali_team_level": "[#66FF66]سطح []%d\n%s\n%d/%d\n%.2f%%",

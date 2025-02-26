@@ -44,7 +44,7 @@
   "translatebecatali_play_note": "\n[#FFFF99]Заўвага[]: [#66FF66]Oct[] і [#66FF66]Aegires[] атрымліваюць [#66CCFF]40xp[] у секунду.\nВы можаце [#66CCFF]змяніць рэжым адлюстравання мовы[] камандай [#66FF66]\"/мова c\"[].",
   "translatebecatali_team_stat": "-- [#66CCFF]Статыстыка вашай каманды[] --\n[#FF9999]Максімальнае здароўе: []+ %d%%\n[#FF99CC]Шкода: []+ %d%%\n[#99FFFF]Лячэнне: []+ %d/s",
   "translatebecatali_team_upgrade": "\nУвядзіце \"[#66FF66]/абнаўленне[]\" для выкарыстання абнаўлення\nЗвычайнае:  %d, Рэдкае:  %d",
-  "translatebecatali_unit_destroyed": "[]@ [clear]забіў @ з каманды @",
+  "translatebecatali_unit_destroyed": "[]@ [white]забіў @ з каманды @",
   "translatebecatali_unit_low_health": "Ваша [#66FF66]@[] мае [#FF6666]нізкае[] здароўе",
   "translatebecatali_respawn_title": "--- [#66CCFF]Адраджэнне[] ---\n",
   "translatebecatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatebecatali_button_join": "[#FFFF99]Далучыцца да кагосьці[]",
   "translatebecatali_button_help": "[#66CCFF]Адкрыць дапамогу[]",
 
-  "translatebecatali_destroy_toast": "[#FF6666]Каманда []@ [clear]была ліквідавана[]",
+  "translatebecatali_destroy_toast": "[#FF6666]Каманда []@ [white]была ліквідавана[]",
   "translatebecatali_leaderboard_header": "\n--- [#FFD700]Лідарборд[] ---",
   "translatebecatali_level_up_toast": "[#FFD700]Павышэнне ўзроўню![]",
   "translatebecatali_team_level": "[#66FF66]Узровень []%d\n%s\n%d/%d\n%.2f%%",

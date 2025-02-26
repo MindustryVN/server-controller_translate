@@ -44,7 +44,7 @@
     "translatecscatali_play_note": "\n[#FFFF99]Poznámka[]: [#66FF66]Oct[] a [#66FF66]Aegires[] získávají [#66CCFF]40xp[] za sekundu.\nMůžete [#66CCFF]změnit aktuální jazyk zobrazení[] režimem [#66FF66]\"/language c\"[] příkazem.",
     "translatecscatali_team_stat": "-- [#66CCFF]Statistiky vašeho týmu[] --\n[#FF9999]Max HP: []+ %d%%\n[#FF99CC]Poškození: []+ %d%%\n[#99FFFF]Léčení: []+ %d/s",
     "translatecscatali_team_upgrade": "\nZadejte \"[#66FF66]/upgrade[]\" pro použití vylepšení\nBěžné:  %d, Vzácné:  %d",
-    "translatecscatali_unit_destroyed": "[]@ [clear]zabil @ z týmu @",
+    "translatecscatali_unit_destroyed": "[]@ [white]zabil @ z týmu @",
     "translatecscatali_unit_low_health": "Vaše [#66FF66]@[] má [#FF6666]nízké[] zdraví",
     "translatecscatali_respawn_title": "--- [#66CCFF]Respawn přichází[] ---\n",
     "translatecscatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
     "translatecscatali_button_join": "[#FFFF99]Připojit se k někomu[]",
     "translatecscatali_button_help": "[#66CCFF]Otevřít nápovědu[]",
 
-    "translatecscatali_destroy_toast": "[#FF6666]Tým []@ [clear]byl eliminován[]",
+    "translatecscatali_destroy_toast": "[#FF6666]Tým []@ [white]byl eliminován[]",
     "translatecscatali_leaderboard_header": "\n--- [#FFD700]Žebříček[] ---",
     "translatecscatali_level_up_toast": "[#FFD700]Úroveň nahoru![]",
     "translatecscatali_team_level": "[#66FF66]Úroveň []%d\n%s\n%d/%d\n%.2f%%",

@@ -44,7 +44,7 @@
   "translaterucatali_play_note": "\n[#FFFF99]Примечание[]: [#66FF66]Oct[] и [#66FF66]Aegires[] получают [#66CCFF]40xp[] в секунду.\nВы можете [#66CCFF]изменить текущий язык отображения[] командой [#66FF66]\"/language c\"[].",
   "translaterucatali_team_stat": "-- [#66CCFF]Статистика вашей команды[] --\n[#FF9999]Максимальное здоровье: []+ %d%%\n[#FF99CC]Урон: []+ %d%%\n[#99FFFF]Исцеление: []+ %d/c",
   "translaterucatali_team_upgrade": "\nВведите \"[#66FF66]/upgrade[]\", чтобы использовать улучшение\nОбычные:  %d, Редкие:  %d",
-  "translaterucatali_unit_destroyed": "[]@ [clear]уничтожил @ из команды @",
+  "translaterucatali_unit_destroyed": "[]@ [white]уничтожил @ из команды @",
   "translaterucatali_unit_low_health": "Ваш [#66FF66]@[] имеет [#FF6666]низкое[] здоровье",
   "translaterucatali_respawn_title": "--- [#66CCFF]Возрождение[] ---\n",
   "translaterucatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translaterucatali_button_join": "[#FFFF99]Присоединиться[]",
   "translaterucatali_button_help": "[#66CCFF]Открыть помощь[]",
 
-  "translaterucatali_destroy_toast": "[#FF6666]Команда []@ [clear]была устранена[]",
+  "translaterucatali_destroy_toast": "[#FF6666]Команда []@ [white]была устранена[]",
   "translaterucatali_leaderboard_header": "\n--- [#FFD700]Лидерборд[] ---",
   "translaterucatali_level_up_toast": "[#FFD700]Уровень повышен![]",
   "translaterucatali_team_level": "[#32CD32]Уровень []%d\n%s\n%d/%d\n%.2f%%",

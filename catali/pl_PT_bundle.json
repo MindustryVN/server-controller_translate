@@ -44,7 +44,7 @@
   "translatepl_PTcatali_play_note": "\n[#FFFF99]Uwaga[]: [#66FF66]Oct[] i [#66FF66]Aegires[] zyskują [#66CCFF]40xp[] na sekundę.\nMożesz [#66CCFF]zmienić tryb wyświetlania bieżącego języka[] za pomocą polecenia [#66FF66]\"/language c\"[].",
   "translatepl_PTcatali_team_stat": "-- [#66CCFF]Statystyki twojej drużyny[] --\n[#FF9999]Maks HP: []+ %d%%\n[#FF99CC]Obrażenia: []+ %d%%\n[#99FFFF]Leczenie: []+ %d/s",
   "translatepl_PTcatali_team_upgrade": "\nWpisz \"[#66FF66]/upgrade[]\" aby użyć ulepszenia\nZwykłe:  %d, Rzadkie:  %d",
-  "translatepl_PTcatali_unit_destroyed": "[]@ [clear]zabił @ z drużyny @",
+  "translatepl_PTcatali_unit_destroyed": "[]@ [white]zabił @ z drużyny @",
   "translatepl_PTcatali_unit_low_health": "Twoja [#66FF66]@[] ma [#FF6666]niskie[] zdrowie",
   "translatepl_PTcatali_respawn_title": "--- [#66CCFF]Odrodzenie nadchodzi[] ---\n",
   "translatepl_PTcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatepl_PTcatali_button_join": "[#FFFF99]Dołącz do kogoś[]",
   "translatepl_PTcatali_button_help": "[#66CCFF]Otwórz pomoc[]",
 
-  "translatepl_PTcatali_destroy_toast": "[#FF6666]Drużyna []@ [clear]została wyeliminowana[]",
+  "translatepl_PTcatali_destroy_toast": "[#FF6666]Drużyna []@ [white]została wyeliminowana[]",
   "translatepl_PTcatali_leaderboard_header": "\n--- [#FFD700]Tabela wyników[] ---",
   "translatepl_PTcatali_level_up_toast": "[#FFD700]Poziom w górę![]",
   "translatepl_PTcatali_team_level": "[#66FF66]Poziom []%d\n%s\n%d/%d\n%.2f%%",

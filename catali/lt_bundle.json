@@ -44,7 +44,7 @@
   "translateltcatali_play_note": "\n[#FFFF99]Pastaba[]: [#66FF66]Oct[] ir [#66FF66]Aegires[] gauna [#66CCFF]40xp[] per sekundę.\nGalite [#66CCFF]pakeisti dabartinį kalbos rodymo[] režimą naudodami [#66FF66]\"/language c\"[] komandą.",
   "translateltcatali_team_stat": "-- [#66CCFF]Jūsų komandos statistika[] --\n[#FF9999]Maksimalus HP: []+ %d%%\n[#FF99CC]Žala: []+ %d%%\n[#99FFFF]Gydymas: []+ %d/s",
   "translateltcatali_team_upgrade": "\nĮveskite \"[#66FF66]/upgrade[]\" naudoti atnaujinimą\nBendras:  %d, Retas:  %d",
-  "translateltcatali_unit_destroyed": "[]@ [clear]nužudė @ iš komandos @",
+  "translateltcatali_unit_destroyed": "[]@ [white]nužudė @ iš komandos @",
   "translateltcatali_unit_low_health": "Jūsų [#66FF66]@[] yra [#FF6666]žemos[] sveikatos",
   "translateltcatali_respawn_title": "--- [#66CCFF]Atgimimas artėja[] ---\n",
   "translateltcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translateltcatali_button_join": "[#FFFF99]Prisijungti prie kažko[]",
   "translateltcatali_button_help": "[#66CCFF]Atidaryti pagalbą[]",
 
-  "translateltcatali_destroy_toast": "[#FF6666]Komanda []@ [clear]buvo pašalinta[]",
+  "translateltcatali_destroy_toast": "[#FF6666]Komanda []@ [white]buvo pašalinta[]",
   "translateltcatali_leaderboard_header": "\n--- [#FFD700]Lyderių lentelė[] ---",
   "translateltcatali_level_up_toast": "[#FFD700]Lygio pakėlimas![]",
   "translateltcatali_team_level": "[#66FF66]Lygis []%d\n%s\n%d/%d\n%.2f%%",

@@ -44,7 +44,7 @@
   "translatezh_CNcatali_play_note": "\n[#FFFF99]注意[]: [#66FF66]Oct[] 和 [#66FF66]Aegires[] 每秒获得 [#66CCFF]40xp[]。\n你可以通过 [#66FF66]\"/language c\"[] 命令[#66CCFF]更改当前语言视图[]模式。",
   "translatezh_CNcatali_team_stat": "-- [#66CCFF]你的队伍状态[] --\n[#FF9999]最大生命值: []+ %d%%\n[#FF99CC]伤害: []+ %d%%\n[#99FFFF]治疗: []+ %d/s",
   "translatezh_CNcatali_team_upgrade": "\n输入 \"[#66FF66]/upgrade[]\" 以使用升级\n普通:  %d, 稀有:  %d",
-  "translatezh_CNcatali_unit_destroyed": "[]@ [clear]已击杀一个@ 来自队伍@",
+  "translatezh_CNcatali_unit_destroyed": "[]@ [white]已击杀一个@ 来自队伍@",
   "translatezh_CNcatali_unit_low_health": "你的 [#66FF66]@[] 生命值[#FF6666]低[]",
   "translatezh_CNcatali_respawn_title": "--- [#66CCFF]重生即将到来[] ---\n",
   "translatezh_CNcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatezh_CNcatali_button_join": "[#FFFF99]加入某人[]",
   "translatezh_CNcatali_button_help": "[#66CCFF]打开帮助[]",
 
-  "translatezh_CNcatali_destroy_toast": "[#FF6666]队伍[]@ [clear]已被淘汰[]",
+  "translatezh_CNcatali_destroy_toast": "[#FF6666]队伍[]@ [white]已被淘汰[]",
   "translatezh_CNcatali_leaderboard_header": "\n--- [#FFD700]排行榜[] ---",
   "translatezh_CNcatali_level_up_toast": "[#FFD700]升级![]",
   "translatezh_CNcatali_team_level": "[#66FF66]等级 []%d\n%s\n%d/%d\n%.2f%%",

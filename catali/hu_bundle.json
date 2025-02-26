@@ -43,7 +43,7 @@
   "translatehucatali_play_note": "\n[#FFFF99]Megjegyzés[]: [#66FF66]Oct[] és [#66FF66]Aegires[] [#66CCFF]40xp[]-t kap másodpercenként.\nMegváltoztathatja az aktuális nyelvi nézet[] módot a [#66FF66]\"/language c\"[] parancs segítségével.",
   "translatehucatali_team_stat": "-- [#66CCFF]A csapatod statisztikája[] --\n[#FF9999]Max HP: []+ %d%%\n[#FF99CC]Sebzés: []+ %d%%\n[#99FFFF]Gyógyítás: []+ %d/s",
   "translatehucatali_team_upgrade": "\nÍrja be \"[#66FF66]/upgrade[]\" a fejlesztés használatához\nKözös:  %d, Ritka:  %d",
-  "translatehucatali_unit_destroyed": "[]@ [clear]megölte egy @-t a @ csapatból",
+  "translatehucatali_unit_destroyed": "[]@ [white]megölte egy @-t a @ csapatból",
   "translatehucatali_unit_low_health": "Az [#66FF66]@[] [#FF6666]alacsony[] egészségi állapotban van",
   "translatehucatali_respawn_title": "--- [#66CCFF]Újraéledés közeledik[] ---\n",
   "translatehucatali_respawn_message": "@ @: [#66CCFF]@[]\n",

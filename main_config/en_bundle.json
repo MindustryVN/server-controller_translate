@@ -33,6 +33,6 @@
 
   "translateensurvival_game_time_elapsed_message": "Time elapsed: @",
   "translateensurvival_gameover_menu_title": "[accent]Game Over!",
-  "translateensurvival_gameover_menu_message": "Time survived: [blue]@[].\n[accent]Have [clear]a [green]nice game!"
+  "translateensurvival_gameover_menu_message": "Time survived: [blue]@[].\n[accent]Have [white]a [green]nice game!"
 
 }

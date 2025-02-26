@@ -44,7 +44,7 @@
   "translatecacatali_play_note": "\n[#FFFF99]Nota[]: [#66FF66]Oct[] i [#66FF66]Aegires[] guanyen [#66CCFF]40xp[] per segon.\nPots [#66CCFF]canviar el mode de visualització de l'idioma actual[] amb la comanda [#66FF66]\"/language c\"[].",
   "translatecacatali_team_stat": "-- [#66CCFF]Estadístiques del teu equip[] --\n[#FF9999]HP màxim: []+ %d%%\n[#FF99CC]Dany: []+ %d%%\n[#99FFFF]Curació: []+ %d/s",
   "translatecacatali_team_upgrade": "\nEscriu \"[#66FF66]/upgrade[]\" per utilitzar la millora\nComú:  %d, Rar:  %d",
-  "translatecacatali_unit_destroyed": "[]@ [clear]ha matat un @ de l'equip @",
+  "translatecacatali_unit_destroyed": "[]@ [white]ha matat un @ de l'equip @",
   "translatecacatali_unit_low_health": "La teva [#66FF66]@[] té [#FF6666]poca[] salut",
   "translatecacatali_respawn_title": "--- [#66CCFF]Reaparició imminent[] ---\n",
   "translatecacatali_respawn_message": "@ @: [#66CCFF]@[]\n",
@@ -64,7 +64,7 @@
   "translatecacatali_button_join": "[#FFFF99]Unir-se a algú[]",
   "translatecacatali_button_help": "[#66CCFF]Obrir ajuda[]",
 
-  "translatecacatali_destroy_toast": "[#FF6666]L'equip []@ [clear]ha estat eliminat[]",
+  "translatecacatali_destroy_toast": "[#FF6666]L'equip []@ [white]ha estat eliminat[]",
   "translatecacatali_leaderboard_header": "\n--- [#FFD700]Classificació[] ---",
   "translatecacatali_level_up_toast": "[#FFD700]Nivell superior![]",
   "translatecacatali_team_level": "[#66FF66]Nivell []%d\n%s\n%d/%d\n%.2f%%",
