@@ -49,7 +49,7 @@
   "translateficatali_respawn_title": "--- [#66CCFF]Uudelleensyntyminen tulossa[] ---\n",
   "translateficatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translateficatali_next_catch": "Seuraava yksikön saalis: [#66CCFF]@[]\n",
-  "translateficatali_time_played": "Peliaika: %02d:%02d:%02d\n",
+  "translateficatali_time_played": "Peliaika: @\n",
 
   "translateficatali_join_title": "--- [#66CCFF]Liity joukkueeseen[] ---",
   "translateficatali_join_message": "[#66CCFF]Valitse joukkue johon liittyä:",

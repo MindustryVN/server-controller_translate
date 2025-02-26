@@ -49,7 +49,7 @@
   "translatedacatali_respawn_title": "--- [#66CCFF]Genoplivning på vej[] ---\n",
   "translatedacatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatedacatali_next_catch": "Næste enhed fangst: [#66CCFF]@[]\n",
-  "translatedacatali_time_played": "Spilletid: %02d:%02d:%02d\n",
+  "translatedacatali_time_played": "Spilletid: @\n",
 
   "translatedacatali_join_title": "--- [#66CCFF]Deltag i et hold[] ---",
   "translatedacatali_join_message": "[#66CCFF]Vælg et hold at deltage i:",

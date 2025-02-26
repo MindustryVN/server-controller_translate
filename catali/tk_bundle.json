@@ -49,7 +49,7 @@
   "translatetkcatali_respawn_title": "--- [#66CCFF]Täzeden döreme[] ---\n",
   "translatetkcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatetkcatali_next_catch": "Indiki bölüm tutmak: [#66CCFF]@[]\n",
-  "translatetkcatali_time_played": "Oýnan wagt: %02d:%02d:%02d\n",
+  "translatetkcatali_time_played": "Oýnan wagt: @\n",
 
   "translatetkcatali_join_title": "--- [#66CCFF]Topara goşulmak[] ---",
   "translatetkcatali_join_message": "[#66CCFF]Topara goşulmak üçin saýlaň:",

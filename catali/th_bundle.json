@@ -49,7 +49,7 @@
   "translatethcatali_respawn_title": "--- [#66CCFF]การเกิดใหม่กำลังมา[] ---\n",
   "translatethcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatethcatali_next_catch": "การจับหน่วยถัดไป: [#66CCFF]@[]\n",
-  "translatethcatali_time_played": "เวลาที่เล่น: %02d:%02d:%02d\n",
+  "translatethcatali_time_played": "เวลาที่เล่น: @\n",
 
   "translatethcatali_join_title": "--- [#66CCFF]เข้าร่วมทีม[] ---",
   "translatethcatali_join_message": "[#66CCFF]เลือกทีมที่จะเข้าร่วม:",

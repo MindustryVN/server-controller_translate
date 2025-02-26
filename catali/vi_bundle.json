@@ -49,7 +49,7 @@
   "translatevicatali_respawn_title": "--- [#66CCFF]Đang Hồi Sinh[] ---\n",
   "translatevicatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatevicatali_next_catch": "Lần săn tiếp theo: [#66CCFF]@[]\n",
-  "translatevicatali_time_played": "Thời gian chơi: %02d:%02d:%02d\n",
+  "translatevicatali_time_played": "Thời gian chơi: @\n",
 
   "translatevicatali_join_title": "--- [#66CCFF]Tham Gia Đội[] ---",
   "translatevicatali_join_message": "[#66CCFF]Bạn muốn tham gia đội nào?",

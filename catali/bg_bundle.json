@@ -49,7 +49,7 @@
   "translatebgcatali_respawn_title": "--- [#66CCFF]Предстоящо възраждане[] ---\n",
   "translatebgcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatebgcatali_next_catch": "Следващо улавяне на единица: [#66CCFF]@[]\n",
-  "translatebgcatali_time_played": "Изиграно време: %02d:%02d:%02d\n",
+  "translatebgcatali_time_played": "Изиграно време: @\n",
 
   "translatebgcatali_join_title": "--- [#66CCFF]Присъединете се към отбор[] ---",
   "translatebgcatali_join_message": "[#66CCFF]Изберете отбор за присъединяване:",

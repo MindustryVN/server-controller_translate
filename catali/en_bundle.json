@@ -49,7 +49,7 @@
   "translateencatali_respawn_title": "--- [#66CCFF]Respawn Incoming[] ---\n",
   "translateencatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translateencatali_next_catch": "Next unit catch: [#66CCFF]@[]\n",
-  "translateencatali_time_played": "Time played: %02d:%02d:%02d\n",
+  "translateencatali_time_played": "Time played: @\n",
 
   "translateencatali_join_title": "--- [#66CCFF]Join A Team[] ---",
   "translateencatali_join_message": "[#66CCFF]Choose a team to join:",

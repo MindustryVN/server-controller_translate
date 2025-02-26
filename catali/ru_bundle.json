@@ -49,7 +49,7 @@
   "translaterucatali_respawn_title": "--- [#66CCFF]Возрождение[] ---\n",
   "translaterucatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translaterucatali_next_catch": "Следующий захват злого юнита: [#66CCFF]@[]\n",
-  "translaterucatali_time_played": "Время игры: %02d:%02d:%02d\n",
+  "translaterucatali_time_played": "Время игры: @\n",
 
   "translaterucatali_join_title": "--- [#66CCFF]Вступить в команду[] ---",
   "translaterucatali_join_message": "[#66CCFF]В какую команду вы хотите вступить?",

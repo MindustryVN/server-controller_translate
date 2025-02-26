@@ -49,7 +49,7 @@
   "translatetrcatali_respawn_title": "--- [#66CCFF]Yeniden Doğma Geliyor[] ---\n",
   "translatetrcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatetrcatali_next_catch": "Bir sonraki birim yakalama: [#66CCFF]@[]\n",
-  "translatetrcatali_time_played": "Oynanan süre: %02d:%02d:%02d\n",
+  "translatetrcatali_time_played": "Oynanan süre: @\n",
 
   "translatetrcatali_join_title": "--- [#66CCFF]Bir Takıma Katıl[] ---",
   "translatetrcatali_join_message": "[#66CCFF]Katılmak için bir takım seçin:",

@@ -48,7 +48,7 @@
   "translatefrcatali_respawn_title": "--- [#66CCFF]Réapparition imminente[] ---\n",
   "translatefrcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatefrcatali_next_catch": "Prochaine capture d'unité: [#66CCFF]@[]\n",
-  "translatefrcatali_time_played": "Temps joué: %02d:%02d:%02d\n",
+  "translatefrcatali_time_played": "Temps joué: @\n",
 
   "translatefrcatali_join_title": "--- [#66CCFF]Rejoindre une équipe[] ---",
   "translatefrcatali_join_message": "[#66CCFF]Choisissez une équipe à rejoindre:",

@@ -49,7 +49,7 @@
   "translatezh_TWcatali_respawn_title": "--- [#66CCFF]重生即將到來[] ---\n",
   "translatezh_TWcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatezh_TWcatali_next_catch": "下一個單位捕捉: [#66CCFF]@[]\n",
-  "translatezh_TWcatali_time_played": "遊戲時間: %02d:%02d:%02d\n",
+  "translatezh_TWcatali_time_played": "遊戲時間: @\n",
 
   "translatezh_TWcatali_join_title": "--- [#66CCFF]加入一個隊伍[] ---",
   "translatezh_TWcatali_join_message": "[#66CCFF]選擇一個隊伍加入:",

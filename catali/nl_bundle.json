@@ -49,7 +49,7 @@
   "translatenlcatali_respawn_title": "--- [#66CCFF]Respawn Komt[] ---\n",
   "translatenlcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatenlcatali_next_catch": "Volgende eenheid vangen: [#66CCFF]@[]\n",
-  "translatenlcatali_time_played": "Gespeelde tijd: %02d:%02d:%02d\n",
+  "translatenlcatali_time_played": "Gespeelde tijd: @\n",
 
   "translatenlcatali_join_title": "--- [#66CCFF]Sluit je aan bij een team[] ---",
   "translatenlcatali_join_message": "[#66CCFF]Kies een team om je bij aan te sluiten:",

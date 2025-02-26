@@ -48,7 +48,7 @@
   "translatehucatali_respawn_title": "--- [#66CCFF]Újraéledés közeledik[] ---\n",
   "translatehucatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatehucatali_next_catch": "Következő egység elkapása: [#66CCFF]@[]\n",
-  "translatehucatali_time_played": "Játszott idő: %02d:%02d:%02d\n",
+  "translatehucatali_time_played": "Játszott idő: @\n",
 
   "translatehucatali_join_title": "--- [#66CCFF]Csatlakozz egy csapathoz[] ---",
   "translatehucatali_join_message": "[#66CCFF]Válasszon egy csapatot a csatlakozáshoz:",

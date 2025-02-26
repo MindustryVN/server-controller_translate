@@ -49,7 +49,7 @@
   "translatejacatali_respawn_title": "--- [#66CCFF]リスポーンが来ます[] ---\n",
   "translatejacatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatejacatali_next_catch": "次のユニットキャッチ: [#66CCFF]@[]\n",
-  "translatejacatali_time_played": "プレイ時間: %02d:%02d:%02d\n",
+  "translatejacatali_time_played": "プレイ時間: @\n",
 
   "translatejacatali_join_title": "--- [#66CCFF]チームに参加[] ---",
   "translatejacatali_join_message": "[#66CCFF]参加するチームを選択してください:",

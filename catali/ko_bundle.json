@@ -49,7 +49,7 @@
   "translatekocatali_respawn_title": "--- [#66CCFF]리스폰 대기 중[] ---\n",
   "translatekocatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatekocatali_next_catch": "다음 유닛 포획: [#66CCFF]@[]\n",
-  "translatekocatali_time_played": "플레이 시간: %02d:%02d:%02d\n",
+  "translatekocatali_time_played": "플레이 시간: @\n",
 
   "translatekocatali_join_title": "--- [#66CCFF]팀에 참여[] ---",
   "translatekocatali_join_message": "[#66CCFF]어떤 팀에 참여하시겠습니까?",

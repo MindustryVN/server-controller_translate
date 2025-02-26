@@ -49,7 +49,7 @@
   "translateeucatali_respawn_title": "--- [#66CCFF]Berpiztea Dator[] ---\n",
   "translateeucatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translateeucatali_next_catch": "Hurrengo unitate harrapaketa: [#66CCFF]@[]\n",
-  "translateeucatali_time_played": "Jokatutako denbora: %02d:%02d:%02d\n",
+  "translateeucatali_time_played": "Jokatutako denbora: @\n",
 
   "translateeucatali_join_title": "--- [#66CCFF]Sartu Talde Batean[] ---",
   "translateeucatali_join_message": "[#66CCFF]Aukeratu talde bat sartzeko:",

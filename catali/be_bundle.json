@@ -49,7 +49,7 @@
   "translatebecatali_respawn_title": "--- [#66CCFF]Адраджэнне[] ---\n",
   "translatebecatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatebecatali_next_catch": "Наступная адзінка: [#66CCFF]@[]\n",
-  "translatebecatali_time_played": "Час гульні: %02d:%02d:%02d\n",
+  "translatebecatali_time_played": "Час гульні: @\n",
 
   "translatebecatali_join_title": "--- [#66CCFF]Далучыцца да каманды[] ---",
   "translatebecatali_join_message": "[#66CCFF]Выберыце каманду для далучэння:",

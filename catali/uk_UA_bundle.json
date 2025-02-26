@@ -49,7 +49,7 @@
   "translateuk_UAcatali_respawn_title": "--- [#66CCFF]Відродження наближається[] ---\n",
   "translateuk_UAcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translateuk_UAcatali_next_catch": "Наступне захоплення одиниці: [#66CCFF]@[]\n",
-  "translateuk_UAcatali_time_played": "Час гри: %02d:%02d:%02d\n",
+  "translateuk_UAcatali_time_played": "Час гри: @\n",
 
   "translateuk_UAcatali_join_title": "--- [#66CCFF]Приєднатися до команди[] ---",
   "translateuk_UAcatali_join_message": "[#66CCFF]Виберіть команду для приєднання:",

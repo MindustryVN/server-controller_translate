@@ -49,7 +49,7 @@
   "translatesvcatali_respawn_title": "--- [#66CCFF]Återuppståndelse inkommande[] ---\n",
   "translatesvcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatesvcatali_next_catch": "Nästa enhetsfångst: [#66CCFF]@[]\n",
-  "translatesvcatali_time_played": "Speltid: %02d:%02d:%02d\n",
+  "translatesvcatali_time_played": "Speltid: @\n",
 
   "translatesvcatali_join_title": "--- [#66CCFF]Gå med i ett lag[] ---",
   "translatesvcatali_join_message": "[#66CCFF]Välj ett lag att gå med i:",

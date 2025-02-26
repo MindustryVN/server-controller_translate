@@ -49,7 +49,7 @@
   "translatesrcatali_respawn_title": "--- [#66CCFF]Ponovno pojavljivanje[] ---\n",
   "translatesrcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatesrcatali_next_catch": "Sledeće hvatanje jedinice: [#66CCFF]@[]\n",
-  "translatesrcatali_time_played": "Vreme igranja: %02d:%02d:%02d\n",
+  "translatesrcatali_time_played": "Vreme igranja: @\n",
 
   "translatesrcatali_join_title": "--- [#66CCFF]Pridruži se timu[] ---",
   "translatesrcatali_join_message": "[#66CCFF]Izaberite tim za pridruživanje:",

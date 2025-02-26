@@ -49,7 +49,7 @@
   "translatepl_BRcatali_respawn_title": "--- [#66CCFF]Odrodzenie nadchodzi[] ---\n",
   "translatepl_BRcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatepl_BRcatali_next_catch": "Następne złapanie jednostki: [#66CCFF]@[]\n",
-  "translatepl_BRcatali_time_played": "Czas gry: %02d:%02d:%02d\n",
+  "translatepl_BRcatali_time_played": "Czas gry: @\n",
 
   "translatepl_BRcatali_join_title": "--- [#66CCFF]Dołącz do drużyny[] ---",
   "translatepl_BRcatali_join_message": "[#66CCFF]Wybierz drużynę do dołączenia:",

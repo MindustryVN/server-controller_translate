@@ -49,7 +49,7 @@
   "translatecacatali_respawn_title": "--- [#66CCFF]Reaparició imminent[] ---\n",
   "translatecacatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatecacatali_next_catch": "Propera captura d'unitat: [#66CCFF]@[]\n",
-  "translatecacatali_time_played": "Temps jugat: %02d:%02d:%02d\n",
+  "translatecacatali_time_played": "Temps jugat: @\n",
 
   "translatecacatali_join_title": "--- [#66CCFF]Uneix-te a un equip[] ---",
   "translatecacatali_join_message": "[#66CCFF]Tria un equip per unir-te:",

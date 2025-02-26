@@ -49,7 +49,7 @@
     "translatecscatali_respawn_title": "--- [#66CCFF]Respawn přichází[] ---\n",
     "translatecscatali_respawn_message": "@ @: [#66CCFF]@[]\n",
     "translatecscatali_next_catch": "Další jednotka k chycení: [#66CCFF]@[]\n",
-    "translatecscatali_time_played": "Doba hraní: %02d:%02d:%02d\n",
+    "translatecscatali_time_played": "Doba hraní: @\n",
 
     "translatecscatali_join_title": "--- [#66CCFF]Připojte se k týmu[] ---",
     "translatecscatali_join_message": "[#66CCFF]Vyberte tým k připojení:",

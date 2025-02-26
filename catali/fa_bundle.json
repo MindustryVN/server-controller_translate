@@ -49,7 +49,7 @@
   "translatefacatali_respawn_title": "--- [#66CCFF]بازگشت در حال انجام[] ---\n",
   "translatefacatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatefacatali_next_catch": "واحد بعدی: [#66CCFF]@[]\n",
-  "translatefacatali_time_played": "زمان بازی: %02d:%02d:%02d\n",
+  "translatefacatali_time_played": "زمان بازی: @\n",
 
   "translatefacatali_join_title": "--- [#66CCFF]پیوستن به تیم[] ---",
   "translatefacatali_join_message": "[#66CCFF]یک تیم برای پیوستن انتخاب کنید:",

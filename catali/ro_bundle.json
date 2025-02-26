@@ -49,7 +49,7 @@
   "translaterocatali_respawn_title": "--- [#66CCFF]Reapariție Imediată[] ---\n",
   "translaterocatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translaterocatali_next_catch": "Următoarea captură de unitate: [#66CCFF]@[]\n",
-  "translaterocatali_time_played": "Timp jucat: %02d:%02d:%02d\n",
+  "translaterocatali_time_played": "Timp jucat: @\n",
 
   "translaterocatali_join_title": "--- [#66CCFF]Alătură-te unei echipe[] ---",
   "translaterocatali_join_message": "[#66CCFF]Alege o echipă pentru a te alătura:",

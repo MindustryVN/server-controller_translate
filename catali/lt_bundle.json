@@ -49,7 +49,7 @@
   "translateltcatali_respawn_title": "--- [#66CCFF]Atgimimas artėja[] ---\n",
   "translateltcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translateltcatali_next_catch": "Kitas vieneto sugavimas: [#66CCFF]@[]\n",
-  "translateltcatali_time_played": "Žaidimo laikas: %02d:%02d:%02d\n",
+  "translateltcatali_time_played": "Žaidimo laikas: @\n",
 
   "translateltcatali_join_title": "--- [#66CCFF]Prisijunkite prie komandos[] ---",
   "translateltcatali_join_message": "[#66CCFF]Pasirinkite komandą prisijungti:",

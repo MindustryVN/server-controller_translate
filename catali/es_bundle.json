@@ -49,7 +49,7 @@
   "translateescatali_respawn_title": "--- [#66CCFF]Reaparición en camino[] ---\n",
   "translateescatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translateescatali_next_catch": "Próxima captura de unidad: [#66CCFF]@[]\n",
-  "translateescatali_time_played": "Tiempo jugado: %02d:%02d:%02d\n",
+  "translateescatali_time_played": "Tiempo jugado: @\n",
 
   "translateescatali_join_title": "--- [#66CCFF]Únete a un equipo[] ---",
   "translateescatali_join_message": "[#66CCFF]Elige un equipo para unirte:",

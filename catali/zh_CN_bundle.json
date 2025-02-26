@@ -49,7 +49,7 @@
   "translatezh_CNcatali_respawn_title": "--- [#66CCFF]重生即将到来[] ---\n",
   "translatezh_CNcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatezh_CNcatali_next_catch": "下一个单位捕获: [#66CCFF]@[]\n",
-  "translatezh_CNcatali_time_played": "游戏时间: %02d:%02d:%02d\n",
+  "translatezh_CNcatali_time_played": "游戏时间: @\n",
 
   "translatezh_CNcatali_join_title": "--- [#66CCFF]加入一个队伍[] ---",
   "translatezh_CNcatali_join_message": "[#66CCFF]选择一个队伍加入:",

@@ -49,7 +49,7 @@
   "translatenl_BEcatali_respawn_title": "--- [#66CCFF]Herstart inkomend[] ---\n",
   "translatenl_BEcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatenl_BEcatali_next_catch": "Volgende eenheid vangen: [#66CCFF]@[]\n",
-  "translatenl_BEcatali_time_played": "Gespeelde tijd: %02d:%02d:%02d\n",
+  "translatenl_BEcatali_time_played": "Gespeelde tijd: @\n",
 
   "translatenl_BEcatali_join_title": "--- [#66CCFF]Sluit je aan bij een team[] ---",
   "translatenl_BEcatali_join_message": "[#66CCFF]Kies een team om bij aan te sluiten:",

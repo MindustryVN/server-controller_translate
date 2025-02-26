@@ -49,7 +49,7 @@
   "translatefilcatali_respawn_title": "--- [#66CCFF]Paparating na Respawn[] ---\n",
   "translatefilcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatefilcatali_next_catch": "Susunod na unit catch: [#66CCFF]@[]\n",
-  "translatefilcatali_time_played": "Oras ng paglalaro: %02d:%02d:%02d\n",
+  "translatefilcatali_time_played": "Oras ng paglalaro: @\n",
 
   "translatefilcatali_join_title": "--- [#66CCFF]Sumali sa Isang Team[] ---",
   "translatefilcatali_join_message": "[#66CCFF]Pumili ng team upang sumali:",

@@ -49,7 +49,7 @@
   "translatedecatali_respawn_title": "--- [#66CCFF]Respawn in Kürze[] ---\n",
   "translatedecatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translatedecatali_next_catch": "Nächste Einheit fangen: [#66CCFF]@[]\n",
-  "translatedecatali_time_played": "Gespielte Zeit: %02d:%02d:%02d\n",
+  "translatedecatali_time_played": "Gespielte Zeit: @\n",
 
   "translatedecatali_join_title": "--- [#66CCFF]Einem Team beitreten[] ---",
   "translatedecatali_join_message": "[#66CCFF]Wähle ein Team zum Beitreten:",

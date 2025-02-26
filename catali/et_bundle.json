@@ -49,7 +49,7 @@
   "translateetcatali_respawn_title": "--- [#66CCFF]Taaselustamine tulekul[] ---\n",
   "translateetcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translateetcatali_next_catch": "Järgmine üksuse püüdmine: [#66CCFF]@[]\n",
-  "translateetcatali_time_played": "Mänguaeg: %02d:%02d:%02d\n",
+  "translateetcatali_time_played": "Mänguaeg: @\n",
 
   "translateetcatali_join_title": "--- [#66CCFF]Liitu meeskonnaga[] ---",
   "translateetcatali_join_message": "[#66CCFF]Valige meeskond, millega liituda:",

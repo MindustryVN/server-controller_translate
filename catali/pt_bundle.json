@@ -49,7 +49,7 @@
   "translateptcatali_respawn_title": "--- [#66CCFF]Renascimento Imediato[] ---\n",
   "translateptcatali_respawn_message": "@ @: [#66CCFF]@[]\n",
   "translateptcatali_next_catch": "Próxima captura de unidade: [#66CCFF]@[]\n",
-  "translateptcatali_time_played": "Tempo jogado: %02d:%02d:%02d\n",
+  "translateptcatali_time_played": "Tempo jogado: @\n",
 
   "translateptcatali_join_title": "--- [#66CCFF]Junte-se a uma Equipe[] ---",
   "translateptcatali_join_message": "[#66CCFF]Escolha uma equipe para se juntar:",
