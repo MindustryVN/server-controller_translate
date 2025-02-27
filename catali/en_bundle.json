@@ -42,7 +42,7 @@
   "translateencatali_upgrade_amount_error": "[#FF6666]Invalid amount. Please enter valid amount.",
 
   "translateencatali_play_note": "\n[#FFFF99]Note[]: [#66FF66]Oct[] and [#66FF66]Aegires[] gain [#66CCFF]40xp[] per second.\nYou can [#66CCFF]change current language view[] mode by [#66FF66]\"/language c\"[] command.",
-  "translateencatali_team_stat": "-- [#66CCFF]Your team stat[] --\n[#FF9999]Max HP: []+ %d%%\n[#FF99CC]Damage: []+ %d%%\n[#99FFFF]Healing: []+ %d/s",
+  "translateencatali_team_stat": "-- [#66CCFF]Your team stat[] --\n[#FF9999]Max HP: []+ %d%%\n[#FF99CC]Damage: []+ %d%%\n[#99FFFF]Healing: []+ %d/s\n[accent]EXP :[]+ %d%%",
   "translateencatali_team_upgrade": "\nType \"[#66FF66]/upgrade[]\" to use upgrade\nCommon:  %d, Rare:  %d",
   "translateencatali_unit_destroyed": "[]@ [white]has slain an @ from team @",
   "translateencatali_unit_low_health": "Your [#66FF66]@[] is [#FF6666]low[] health",
