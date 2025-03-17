@@ -1,7 +1,7 @@
 {
   "catali_bundle_config_version": "v1.1.0",
   "translate_hint": "tr<language><translate_key>: value",
-  "trvicatali_team_stat": "---  ---\nHP: []+ @%\n[#FF99CC]Sát thương: []+ @%\n[#99FFFF]Hồi phục: []+ %d/s\n[#D3F9AF]XP: []+ @%",
+  "trvicatali_team_stat": "--- Thống Kê Đội Của Bạn ---\nHP: []+ @%\n[#FF99CC]Sát thương: []+ @%\n[#99FFFF]Hồi phục: []+ %d/s\n[#D3F9AF]XP: []+ @%",
   "trvicatali_team_upgrade": "Thực hiện \"[#66FF66]/u[]\" để nâng cấp.\nThường:  @, Hiếm:  @",
   "trvicatali_team_level": "[#66FF66]Cấp độ []%d\n%s\n%d/%d\n%.2f%%",
   "trvicatali_leaderboard_header": "--- [#FFD700]Bảng Xếp Hạng[] ---",
